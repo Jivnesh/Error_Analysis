@@ -1,0 +1,2076 @@
+1	kAnicit	locpln	loc. pl. n.	2	viseranam	2	viseranam	_
+2	dinAni	locpln	loc. pl. n.	7	axikaranam	7	axikaranam	_
+3	saH	nomsgm	nom. sg. m.	7	karwa	7	karwa	Collision
+4	SvaSurAlaye	locsgm	loc. sg. m.	7	axikaranam	5	axikaranam	_
+5	sapatnIkaH	nomsgm	nom. sg. m.	7	karwqsamanaxikaranam	7	karwa	_
+6	sAnandam	adv	adv.	7	kriyaviseranam	7	kriyaviseranam	_
+7	sTitavAn	ppa	ppa.	0	root	0	root	_
+
+1	AtmanaH	gsg*	g. sg. *	2	rartisambanxah	2	rartisambanxah	_
+2	truwaye	datdun	dat. du. n.	4	waxarwyam	4	axikaranam	Collision
+3	pAdayoH	locdum	loc. du. m.	4	axikaranam	4	axikaranam	_
+4	praRipatya	abs	abs.	8	purvakalah	8	purvakalah	_
+5	punaH	adv	adv.	6	sambanxah	6	sambanxah	_
+6	punaH	adv	adv.	7	sambanxah	8	kriyaviseranam	_
+7	kzamAm	accsgf	acc. sg. f.	8	karma	8	karma	_
+8	aBiyAce	impftmdsg1	impft. [1] md. sg. 1	0	root	0	root	_
+
+1	BIzmapitAmahaH	nomsgm	nom. sg. m.	4	karwa	4	karwa	_
+2	drOpadIm	accsgf	acc. sg. f.	4	sambanxah	4	karma	Collision
+3	kim	accsgn	acc. sg. n.	4	sambanxah	4	karma	_
+4	pfzwavAn	pp	pp.	0	root	0	root	_
+
+1	tilakasya	gsgm	g. sg. m.	5	rartisambanxah	5	rartisambanxah	_
+2	tatra	locsgm	loc. sg. m.	6	axikaranam	6	axikaranam	Collision
+3	tadA	locsgm	loc. sg. m.	6	axikaranam	6	axikaranam	_
+4	kim	nomsgn	nom. sg. n.	5	viseranam	5	viseranam	_
+5	uttaram	nomsgn	nom. sg. n.	6	karwa	6	karwa	_
+6	AsIt	aorsg3	aor. [5] ac. sg. 3	0	root	0	root	_
+
+1	gfhiRI	nomdun	nom. du. n.	7	karwa	7	karwa	_
+2	kasmE	datsgn	dat. sg. n.	3	sambanxah	7	prayojanam	_
+3	kasmE	datsgn	dat. sg. n.	7	sampraxanam	7	prayojanam	_
+4	kim	accsgn	acc. sg. n.	5	sambanxah	7	karma	Collision
+5	kim	accsgn	acc. sg. n.	7	karwa	7	karma	_
+6	Bojane	locsgn	loc. sg. n.	7	axikaranam	7	axikaranam	_
+7	paryavezayat	caimpftsg3	ca. impft. ac. sg. 3	0	root	0	root	_
+
+1	vidvAn	nomsgm	nom. sg. m.	3	viseranam	2	viseranam	_
+2	sampAdakaH	nomsgm	nom. sg. m.	3	viseranam	4	karwa	Collision
+3	saH	nomsgm	nom. sg. m.	4	karwa	4	karwa	_
+4	asti	prsg3	pr. [2] ac. sg. 3	0	root	0	root	_
+
+1	SrAvakasya	gsgm	g. sg. m.	3	rartisambanxah	3	rartisambanxah	_
+2	imam	accsgm	acc. sg. m.	3	viseranam	3	viseranam	_
+3	praSnam	accsgm	acc. sg. m.	4	karma	4	karma	_
+4	samADAtum	accsgm	acc. sg. m.	8	prayojanam	5	prayojanam	_
+5	kaTAvAcakaH	nomsgm	nom. sg. m.	8	karwa	8	karwa	_
+6	dfzwAntam	accsgm	acc. sg. m.	8	karma	8	karma	Collision
+7	imam	accsgm	acc. sg. m.	6	viseranam	8	karma	_
+8	prastutavAn	pp	pp.	0	root	0	root	_
+
+1	mArge	locsgm	loc. sg. m.	5	axikaranam	5	axikaranam	_
+2	karmacArI	nomsgm	nom. sg. m.	5	karwa	5	karwa	_
+3	tAn	accplm	acc. pl. m.	4	viseranam	5	karma	Collision
+4	sADUn	accplm	acc. pl. m.	5	karma	5	karma	_
+5	apfcCat	impftsg3	impft. [6] ac. sg. 3	0	root	0	root	_
+
+1	santatim	accsgf	acc. sg. f.	4	karma	4	karma	Collision
+2	mAtfhInAm	accsgf	acc. sg. f.	4	karmasamanaxikaranam	4	karma	_
+3	na	part	part.	4	sambanxah	4	sambanxah	_
+4	kuryAt	optsg3	opt. [8] ac. sg. 3	0	root	0	root	_
+5	sarveSvaraH	nomsgm	nom. sg. m.	4	karwa	4	karwa	_
+6	kvacit	locsgn	loc. sg. n.	4	axikaranam	4	axikaranam	_
+
+1	jananIvat	accsgn	acc. sg. n.	6	kriyaviseranam	6	karma	Collision
+2	vimAtA	nomsgf	nom. sg. f.	6	karwa	6	karwa	_
+3	api	conj	conj.	2	sambanxah	2	sambanxah	_
+4	sneham	accsgm	acc. sg. m.	6	karma	6	karma	_
+5	nEva	prep	prep.	4	sambanxah	6	sambanxah	_
+6	aBivarzati	prsg3	pr. [1] ac. sg. 3	0	root	0	root	_
+
+1	tadA	locsgn	loc. sg. n.	7	axikaranam	7	axikaranam	Collision
+2	eva	prep	prep.	1	sambanxah	1	sambanxah	_
+3	saH	nomsgm	nom. sg. m.	4	viseranam	4	viseranam	_
+4	mahAtmA	nomsg*	nom. sg. *	7	karwa	7	karwa	_
+5	punaH	locsgn	loc. sg. n.	7	axikaranam	7	axikaranam	_
+6	utpannahastaH	nomsgm	nom. sg. m.	7	karwqsamanaxikaranam	7	karwqsamanaxikaranam	_
+7	ajAyata	impftmdsg3	impft. [4] md. sg. 3	0	root	0	root	_
+
+1	paScAt	conj	conj.	4	axikaranam	4	axikaranam	Collision
+2	kaWinakucatawaagrapAti	locsgn	loc. sg. n.	4	axikaranam	4	axikaranam	_
+3	SataSarkaratAM	accsgf	acc. sg. f.	4	karma	4	karma	_
+4	jagAma	pftsg1	pft. ac. sg. 1	0	root	0	root	_
+
+1	kaTam	adv	adv.	8	kriyaviseranam	8	kriyaviseranam	_
+2	na	part	part.	8	sambanxah	8	sambanxah	_
+3	ime	accplm	acc. pl. m.	5	viseranam	4	viseranam	_
+4	AtmIyAn	accplm	acc. pl. m.	5	viseranam	8	karma	Collision
+5	putrapOtrAdIn	accplm	acc. pl. m.	7	karma	6	karma	_
+6	parameSvarAya	datsgm	dat. sg. m.	7	waxarwyam	8	sampraxanam	_
+7	balidAnArTam	accsgm	acc. sg. m.	8	prayojanam	8	karma	_
+8	mArayanti	caprpl3	ca. pr. ac. pl. 3	0	root	0	root	_
+
+1	nirBayaH	nomsgm	nom. sg. m.	2	karwqsamanaxikaranam	2	karwa	Collision
+2	tizWa	impsg2	imp. [1] ac. sg. 2	0	root	0	root	_
+3	tvam	nomsg*	nom. sg. *	2	karwa	2	karwa	_
+
+1	keSavaSAstrI	nomsgm	nom. sg. m.	4	karwa	4	karwa	_
+2	vikrayikam	accsgm	acc. sg. m.	4	karma	4	karma	Collision
+3	kim	accsgn	acc. sg. n.	4	karma	4	karma	_
+4	apfcCat	impftsg3	impft. [6] ac. sg. 3	0	root	0	root	_
+
+1	pattiBiH	instplm	i. pl. m.	2	karanam	2	karwa	Collision
+2	gacCati	prsg3	pr. [1] ac. sg. 3	0	root	0	root	_
+3	yoDaH	nomsgm	nom. sg. m.	2	karwa	2	karwa	_
+
+1	anye	nomplm	nom. pl. m.	2	viseranam	4	karwa	Collision
+2	rogAdayaH	nomplm	nom. pl. m.	4	karwa	4	karwa	_
+3	kintu	part	part.	4	sambanxah	4	sambanxah	_
+4	jAyante	prmdpl3	pr. [4] md. pl. 3	0	root	0	root	_
+5	tatra	locsgn	loc. sg. n.	4	axikaranam	4	axikaranam	_
+6	hetavaH	nomplm	nom. pl. m.	4	karwqsamanaxikaranam	4	karwa	_
+
+1	mune	vocsgm	voc. sg. m.	7	samboxyah	7	samboxyah	_
+2	tvayA	instsg*	inst. sg. *.	7	karwa	7	karwa	Collision
+3	ye	nomplm	nom. pl. m.	6	viseranam	6	viseranam	_
+4	bahavaH	nomplm	nom. pl. m.	6	viseranam	6	viseranam	_
+5	durlaBAH	nomplm	nom. pl. m.	6	viseranam	6	viseranam	_
+6	guRAH	nomplm	nom. pl. m.	7	karma	7	karwa	_
+7	kIrtitAH	pppl	pp. . pl. 	0	root	0	root	_
+
+1	mAtA	nomsgf	nom. sg. f.	4	karwa	4	karwa	_
+2	nAmadevam	accsgm	acc. sg. m.	4	sambanxah	4	karma	Collision
+3	kim	accsgn	acc. sg. n.	4	sambanxah	4	karma	_
+4	pfzwavatI	ppa	ppa.	0	root	0	root	_
+
+1	aham	nomsg*	nom. sg. *	6	karwa	6	karwa	Collision
+2	tu	conj	conj.	1	sambanxah	1	sambanxah	_
+3	SAntasvaBAvasya	gsgn	g. sg. n.	4	viseranam	4	viseranam	_
+4	tasya	gsgn	g. sg. n.	5	rartisambanxah	5	rartisambanxah	_
+5	agre	locsgn	loc. sg. n.	6	axikaranam	6	axikaranam	_
+6	asmi	prsg1	pr. [2] ac. sg. 1	0	root	0	root	_
+7	eva	prep	prep.	6	sambanxah	6	sambanxah	_
+8	kaH	nomsgm	nom. sg. m.	6	karwqsamanaxikaranam	6	karwa	_
+
+1	rAjan	vocsgm	voc. sg. m.	4	samboxyah	4	samboxyah	_
+2	BavAn	nomsgm	nom. sg. m.	4	karwa	4	karwa	Collision
+3	BikzukaH	nomsgm	nom. sg. m.	4	karwqsamanaxikaranam	4	karwa	_
+4	asti	prsg3	pr. [2] ac. sg. 3	0	root	0	root	_
+
+1	navapayaHkaRakomalamAlatIkusumasantatisantatasaNgiBiH	instplm	inst. pl. m.	3	viseranam	3	viseranam	_
+2	pracalitoquniBEH	instplm	inst. pl. m.	3	viseranam	3	viseranam	_
+3	aliBiH	instplm	inst. pl. m.	6	karwa	6	karwa	_
+4	SuBarajoBarajaH	nomsgm	nom. sg. m.	5	viseranam	6	karma	Collision
+5	paripARqimA	nomsgm	nom. sg. m.	6	karma	6	karma	_
+6	Adade	pftmdsg3	pft. md. sg. 3	0	root	0	root	_
+
+1	ekadA	locsgm	loc. sg. m.	4	axikaranam	4	axikaranam	Collision
+2	siMhena	instsgm	i. sg. m.	4	karwa	4	karwa	_
+3	manasi	locsgn	loc. sg. n.	4	axikaranam	4	axikaranam	_
+4	cintitam	pp	pp.	0	root	0	root	_
+
+1	kiYcit	locsgm	loc. sg. m.	3	axikaranam	3	axikaranam	Collision
+2	tatra	locsgm	loc. sg. m.	3	axikaranam	3	axikaranam	_
+3	sTitvA	abs	abs.	6	purvakalah	6	purvakalah	_
+4	ca	conj	conj.	6	sambanxah	6	sambanxah	_
+5	tAn	accplm	acc. pl. m.	6	karma	6	karma	_
+6	abravIt	impftsg3	impft. [2] ac. sg. 3	0	root	0	root	_
+
+1	gaReSaH	nomsgm	nom. sg. m.	5	karwa	5	karwa	Collision
+2	tasya	gsgn	g. sg. n.	4	rartisambanxah	3	rartisambanxah	_
+3	avEtanikaH	nomsgm	nom. sg. m.	4	viseranam	4	viseranam	_
+4	leKakaH	nomsgm	nom. sg. m.	5	karwqsamanaxikaranam	5	karwa	_
+5	AsIt	aorsg3	aor. [5] ac. sg. 3	0	root	0	root	_
+
+1	manovinodArTam	accplf	acc. pl. f.	3	karma	3	karma	Collision
+2	manovinodArTam	accsgn	acc. sg. n.	3	prayojanam	3	karma	_
+3	kftA	pp	pp.	0	root	0	root	_
+
+1	saH	nomsgm	nom. sg. m.	6	karwa	6	karwa	_
+2	mArIcam	accsgm	acc. sg. m.	4	viseranam	4	karma	Collision
+3	rAkzasam	accsgm	acc. sg. m.	4	viseranam	4	karma	_
+4	sahAyam	accsgm	acc. sg. m.	6	sambanxah	6	karma	_
+5	varayAmAsa	accsgm	acc. sg. m.	6	sambanxah	6	karma	_
+6	akarot	impftsg3	impft. [8] ac. sg. 3	0	root	0	root	_
+
+1	tasmin	locsgm	loc. sg. m.	2	viseranam	2	viseranam	_
+2	samaye	locsgm	loc. sg. m.	6	axikaranam	6	axikaranam	Collision
+3	cOraH	nomsgm	nom. sg. m.	6	karwa	6	karwa	_
+4	gfhe	locsgn	loc. sg. n.	6	axikaranam	6	axikaranam	_
+5	na	part	part.	6	sambanxah	6	sambanxah	_
+6	AsIt	aorsg3	aor. [5] ac. sg. 3	0	root	0	root	_
+
+1	tadAnIm	conj	conj.	5	axikaranam	5	axikaranam	Collision
+2	aNganAsu	locplf	loc. pl. f.	5	axikaranam	5	axikaranam	_
+3	viBramasampadaH	nomplf	nom. pl. f.	5	karwa	5	karwa	_
+4	padam	accsgn	acc. sg. n.	5	karma	5	karma	_
+5	nyadaData	impftpl3	impft . ps. pl. 3	0	root	0	root	_
+
+1	apakArI	nomsgm	nom. sg. m.	3	karwa	3	karwa	Collision
+2	vaSe	locsgm	loc. sg. m.	3	axikaranam	3	axikaranam	_
+3	yAti	prsg3	pr. ac. sg. 3	0	root	0	root	_
+4	upakAreRa	instsgn	inst. sg. n.	3	karanam	3	karwa	_
+5	kevalam	accsgm	acc. sg. m.	3	sambanxah	0	root	_
+
+1	dve	nomduf	nom. du. f.	2	viseranam	2	viseranam	_
+2	nAryO	nomduf	nom. du. f.	7	karwa	7	karwa	Collision
+3	ca	conj	conj.	0	root	7	karwa	_
+4	tena	instsgn	i. sg. n.	5	upapaxasambanxah	5	upapaxasambanxah	_
+5	saha	prep	prep.	2	sambanxah	3	sambanxah	_
+6	tatra	locsgm	loc. sg. m.	7	axikaranam	7	axikaranam	_
+7	AgacCatAm	impftdu3	impft. [1] ac. du. 3	3	samucciwam	0	root	_
+
+1	tatra	locsgm	loc. sg. m.	6	axikaranam	6	axikaranam	Collision
+2	putrasTAne	locsgn	loc. sg. n.	6	axikaranam	6	axikaranam	_
+3	tasya	gsgn	g. sg. n.	4	rartisambanxah	4	rartisambanxah	_
+4	pitA	nomsgm	nom. sg. m.	6	karwa	5	viseranam	_
+5	vikrayikaH	nomsgm	nom. sg. m.	6	karwqsamanaxikaranam	6	karwa	_
+6	AsIt	aorsg3	aor. [5] ac. sg. 3	0	root	0	root	_
+
+1	sA	nomsgf	nom. sg. f.	8	karwa	8	karwa	_
+2	tu	conj	conj.	1	sambanxah	1	sambanxah	_
+3	svaSayanakakze	locsgm	loc. sg. m.	6	axikaranam	4	viseranam	_
+4	sTUlasTUlAkzarezu	locplm	loc. pl. m.	6	axikaranam	8	axikaranam	Collision
+5	imam	accsgm	acc. sg. m.	6	karma	6	viseranam	_
+6	leKayitvA	caabs	ca. abs.	8	purvakalah	8	purvakalah	_
+7	upayuktasTAne	locsgn	loc. sg. n.	8	axikaranam	8	axikaranam	_
+8	surakzitavatI	pp	pp.	0	root	0	root	_
+
+1	tat	nomsgn	nom. sg. n.	2	karwa	4	karma	Collision
+2	anujAnIhi	impsg2	imp. [9] ac. sg. 2	0	root	4	sampraxanam	_
+3	mAm	accsg*	acc. sg. *	2	karma	4	karma	_
+4	gamanAya	datsgm	dat. sg. m.	2	prayojanam	0	root	_
+
+1	yat	conj	conj.	4	sambanxah	2	viseranam	_
+2	anyam	accsgm	acc. sg. m.	3	karma	3	karma	Collision
+3	bADate	accduf	acc. du. f.	1	prawiyogi	0	root	_
+4	tat	accsgn	acc. sg. n.	6	anuyogi	3	karma	_
+5	tu	conj	conj.	4	sambanxah	4	sambanxah	_
+6	santyAjyam	pfp	pfp. [1]	0	root	8	karwa	_
+7	eva	prep	prep.	6	sambanxah	6	sambanxah	_
+8	sarvaTA	locsgm	loc. sg. m.	6	axikaranam	0	root	_
+
+1	mahArAjaH	vocsgm	voc. sg. m.	8	samboxyah	8	samboxyah	_
+2	idam	accsgn	acc. sg. n.	8	karma	8	karma	Collision
+3	tu	conj	conj.	2	sambanxah	2	sambanxah	_
+4	kena	instsgm	i. sg. m.	6	viseranam	8	karwa	_
+5	api	conj	conj.	4	sambanxah	4	sambanxah	_
+6	mUlyena	instsgm	i. sg. m.	8	karanam	8	karma	_
+7	na	part	part.	8	sambanxah	8	sambanxah	_
+8	dAsyAmi	futsg1	fut. ac. sg. 1	0	root	0	root	_
+
+1	tasmin	locsgn	loc. sg. n.	2	viseranam	2	viseranam	_
+2	vane	locsgn	loc. sg. n.	8	axikaranam	8	axikaranam	Collision
+3	rAkzaseByaH	ablplm	abl. pl. m.	6	samucciwam	6	samucciwam	_
+4	vanyeByaH	ablpln	abl. pl. n.	6	samucciwam	6	samucciwam	_
+5	paSuByaH	ablplm	abl. pl. m.	6	samucciwam	6	samucciwam	_
+6	ca	conj	conj.	7	apaxanam	8	axikaranam	_
+7	Bayam	nomsgn	nom. sg. n.	8	karwa	8	karwa	_
+8	asti	prsg3	pr. ac. sg. 3	0	root	0	root	_
+
+1	ekaH	nomsgm	nom. sg. m.	2	viseranam	2	viseranam	_
+2	rAjA	nomsgm	nom. sg. m.	6	karwa	6	karwa	Collision
+3	saparivAraH	nomsgm	nom. sg. m.	4	karwqsamanaxikaranam	6	karwa	_
+4	nOkAvihArArTam	accsgm	acc. sg. m.	5	waxarwyam	5	viseranam	_
+5	manaH	accsgn	acc. sg. n.	6	karma	6	karma	_
+6	kftavAn	pp	pp.	0	root	0	root	_
+
+1	rAmatIrTaH	nomsgm	nom. sg. m.	4	karwa	4	karwa	_
+2	mahilAm	accsgf	acc. sg. f.	4	sambanxah	4	karma	Collision
+3	kim	accsgn	acc. sg. n.	4	sambanxah	4	karma	_
+4	kaTitavAn	ppa	ppa.	0	root	0	root	_
+
+1	vAdI	nomsgm	nom. sg. m.	2	viseranam	3	karwa	Collision
+2	aham	nomsg*	nom. sg. *	3	karwa	3	karwa	_
+3	asmi	prsg1	pr. [2] ac. sg. 1	0	root	0	root	_
+
+1	kaTam	adv	adv.	4	kriyaviseranam	4	kriyaviseranam	_
+2	mAm	accsg*	acc. sg. *	4	karma	4	karma	Collision
+3	gfham	accsgn	acc. sg. n.	4	karma	4	karma	_
+4	nayasi	prsg2	pr. [1] ac. sg. 2	0	root	0	root	_
+
+1	putraH	nomsgm	nom. sg. m.	3	karwa	3	karwa	_
+2	yadi	conj	conj.	4	sambanxah	4	sambanxah	_
+3	BavitA	perfutsg3	per. fut. ac. sg. 3	2	prawiyogi	2	prawiyogi	_
+4	tarhi	adv	adv.	8	anuyogi	8	anuyogi	_
+5	SyAmam	accsgm	acc. sg. m.	8	karma	8	karma	Collision
+6	tasya	gsgn	g. sg. n.	7	rartisambanxah	7	rartisambanxah	_
+7	nAma	accsgn	acc. sg. n.	5	viseranam	8	karma	_
+8	rakzizyAmi	futsg1	fut. ac. sg. 1	0	root	0	root	_
+
+1	kintu	adv	adv.	7	sambanxah	7	sambanxah	_
+2	ekavAram	locsgm	loc. sg. m.	7	axikaranam	7	axikaranam	Collision
+3	SItartO	locsgf	loc. sg. f.	7	axikaranam	7	axikaranam	_
+4	tasya	gsgn	g. sg. n.	5	rartisambanxah	5	rartisambanxah	_
+5	pAdatrARe	nomdun	nom. du. n.	7	karwa	7	karwa	_
+6	jIrRaSIrRe	nomduf	nom. du. f.	7	karwqsamanaxikaranam	7	karwqsamanaxikaranam	_
+7	aBavatAm	impftdu3	impft. [1] ac. du. 3	0	root	0	root	_
+
+1	mayA	nomplm	nom. pl. m.	7	karwa	7	karwa	_
+2	eva	prep	prep.	1	sambanxah	1	sambanxah	_
+3	tapobalena	adv	adv.	7	kriyaviseranam	7	kriyaviseranam	_
+4	imO	accdum	acc. du. m.	6	viseranam	7	karma	Collision
+5	te	gsg*	g. sg. *	6	rartisambanxah	6	rartisambanxah	_
+6	hastO	accdum	acc. du. m.	7	karma	7	karma	_
+7	utpAditO	capp	ca. pp.	0	root	0	root	_
+
+1	evameva	adv	adv.	7	kriyaviseranam	7	kriyaviseranam	_
+2	janatAyAH	gsgf	g. sg. f.	4	rartisambanxah	3	rartisambanxah	_
+3	vyaktiH	nomsgf	nom. sg. f.	7	karwa	7	karwa	_
+4	AtmIyAn	accplm	acc. pl. m.	6	viseranam	5	viseranam	_
+5	aBAvABiyogAn	accplm	acc. pl. m.	7	sambanxah	7	karma	Collision
+6	janapratiniDim	accsgm	acc. sg. m.	7	sambanxah	7	karma	_
+7	SrAvayati	caprsg3	ca. pr. ac. sg. 3	0	root	0	root	_
+
+1	ahaNkAraH	nomsgm	nom. sg. m.	4	karwa	4	karwa	Collision
+2	kAryasidDO	locsgf	loc. sg. f.	4	axikaranam	4	axikaranam	_
+3	bADakaH	nomsgm	nom. sg. m.	4	karwqsamanaxikaranam	4	karwa	_
+4	Bavati	prsg3	pr. ac. sg. 3	0	root	0	root	_
+
+1	kintu	locsgn	loc. sg. n.	2	sambanxah	8	sambanxah	_
+2	idAnIm	locsgn	loc. sg. n.	8	axikaranam	8	axikaranam	_
+3	nawaH	nomsgm	nom. sg. m.	8	karwa	8	karwa	_
+4	mAm	accsg*	acc. sg. *	8	karma	8	karma	_
+5	api	conj	conj.	4	sambanxah	4	sambanxah	_
+6	tasmAt	ablsgm	abl. sg. m.	7	viseranam	8	apaxanam	Collision
+7	mahApApataH	ablsgm	abl. sg. m.	8	apaxanam	8	apaxanam	_
+8	surakzitavAn	pp	pp.	0	root	0	root	_
+
+1	tataH	locsgm	loc. sg. m.	7	axikaranam	7	axikaranam	Collision
+2	mantrI	nomsgm	nom. sg. m.	7	karwa	7	karwa	_
+3	rAtrO	locsgm	loc. sg. m.	7	axikaranam	4	viseranam	_
+4	catuzpaTe	locsgm	loc. sg. m.	7	axikaranam	7	axikaranam	_
+5	ekam	accsgm	acc. sg. m.	6	viseranam	6	viseranam	_
+6	bfhatprastaram	accsgm	acc. sg. m.	7	karma	7	karma	_
+7	sTApitavAn	capp	ca. pp.	0	root	0	root	_
+
+1	nirDanam	accsgm	acc. sg. m.	2	viseranam	7	karma	Collision
+2	mAm	accsg*	acc. sg. *	7	karma	7	karma	_
+3	kuwumbinaH	nomplm	nom. pl. m.	7	karwa	7	karwa	_
+4	api	conj	conj.	3	sambanxah	3	sambanxah	_
+5	na	part	part.	7	sambanxah	7	sambanxah	_
+6	eva	prep	prep.	5	sambanxah	5	sambanxah	_
+7	rocayanti	caprpl3	ca. pr. ac. pl. 3	0	root	0	root	_
+
+1	sanDyopAsanAtaH	ablsgf	abl. sg. f.	2	apaxanam	2	apaxanam	_
+2	nivfttaH	nomsgm	nom. sg. m.	3	viseranam	3	viseranam	_
+3	mahAtmA	nomsg*	nom. sg. *	8	karwa	8	karwa	_
+4	punaH	locsgn	loc. sg. n.	8	axikaranam	8	axikaranam	Collision
+5	agre	locsgn	loc. sg. n.	8	axikaranam	8	axikaranam	_
+6	SizyeRa	instsgn	i. sg. n.	7	prawiyogi	7	prawiyogi	_
+7	saha	prep	prep.	3	anuyogi	3	anuyogi	_
+8	prasTitaH	pp	pp.	0	root	0	root	_
+
+1	anyaM	accsgm	acc. sg. m.	2	viseranam	2	viseranam	_
+2	janam	accsgm	acc. sg. m.	7	karma	6	karma	Collision
+3	api	conj	conj.	2	sambanxah	2	sambanxah	_
+4	sA	nomsgf	nom. sg. f.	7	karwa	7	karwa	_
+5	kiM	conj	conj.	6	karma	6	karma	_
+6	kartuM	conj	conj.	7	prayojanam	7	prayojanam	_
+7	kaTitavatI	ppdu	pp. . du. 	0	root	0	root	_
+
+1	tadaparADe	locsgm	loc. sg. m.	6	axikaranam	3	axikaranam	_
+2	ca	conj	conj.	1	sambanxah	3	sambanxah	_
+3	hantum	accsgm	acc. sg. m.	4	karma	6	prayojanam	_
+4	nirRayam	accsgm	acc. sg. m.	6	prayojanam	6	karma	Collision
+5	AtmAnam	accsg*	acc. sg. *	6	karma	6	karma	_
+6	SrAvitavAn	cappa	ca. ppa.	0	root	0	root	_
+
+1	ante	locsgm	loc. sg. m.	6	axikaranam	6	axikaranam	_
+2	tasya	gsgm	g. sg. m.	3	rartisambanxah	3	rartisambanxah	_
+3	putravaDUH	accplf	acc. pl. f.	6	karwa	6	karma	Collision
+4	tasmE	datsgm	dat. sg. m.	6	sampraxanam	6	sampraxanam	_
+5	parAmarSaM	accsgm	acc. sg. m.	6	karma	6	karma	_
+6	dattavatI	ppdu	pp. . du. 	0	root	0	root	_
+
+1	ekataH	ablsgm	abl. sg. m.	4	apaxanam	2	kriyaviseranam	_
+2	gAvaH	nomplm	nom. pl. m.	5	karwa	5	karwa	Collision
+3	svecCayA	adv	adv.	4	kriyaviseranam	4	kriyaviseranam	_
+4	vicarantyaH	nomplf	nom. pl. f.	5	karwqsamanaxikaranam	5	karwa	_
+5	caranti	prpl3	pr. [1] ac. pl. 3	0	root	0	root	_
+6	sma	part	part.	5	sambanxah	5	sambanxah	_
+
+1	tEH	instpln	i. pl. n.	2	sambanxah	4	karwa	Collision
+2	yuktaH	nomsgm	nom. sg. m.	3	viseranam	3	viseranam	_
+3	naraH	nomsgm	nom. sg. m.	4	karma	4	karwa	_
+4	SrUyatAm	impsg3	imp. ps. sg. 3	0	root	0	root	_
+
+1	maraRam	nomsgn	nom. sg. n.	4	karwa	4	karwa	Collision
+2	prakftiH	nomsgf	nom. sg. f.	4	karwqsamanaxikaranam	4	karwa	_
+3	SarIriRAm	gpln	g. pl. n.	2	rartisambanxah	4	rartisambanxah	_
+4	asti	prsg3	pr. [2] ac. sg. 3	0	root	0	root	_
+
+1	ke	nomplm	nom. pl. m.	2	viseranam	6	karwa	Collision
+2	sulaBAH	nomplm	nom. pl. m.	4	samucciwam	4	samucciwam	_
+3	ke	nomplm	nom. pl. m.	5	viseranam	4	samucciwam	_
+4	ca	conj	conj.	7	viseranam	6	karwa	_
+5	durlaBAH	nomplm	nom. pl. m.	4	samucciwam	6	karwqsamanaxikaranam	_
+6	santi	prpl3	pr. [2] ac. pl. 3	0	root	0	root	_
+7	janAH	nomplm	nom. pl. m.	6	karwa	6	karwa	_
+
+1	CAtrEH	instplm	inst. pl. m.	3	karwa	3	karwa	Collision
+2	SlokAH	instplm	inst. pl. m.	3	karma	3	karwa	_
+3	paWyante	prpl3	pr. ps. pl. 3	0	root	0	root	_
+
+1	mARavakam	accsgm	acc. sg. m.	3	karma	3	karma	Collision
+2	mArgam	accsgm	acc. sg. m.	3	karma	3	karma	_
+3	apfcCAma	impftpl1	impft. [6] ac. pl. 1	0	root	0	root	_
+
+1	are	conj	conj.	2	sambanxah	7	samboxyah	_
+2	Bagavan	vocsgm	voc. sg. m.	7	samboxyah	7	samboxyah	_
+3	rUkzAm	accsgf	acc. sg. f.	5	viseranam	7	karma	Collision
+4	eva	conj	conj.	3	sambanxah	3	sambanxah	_
+5	rowIM	accsgf	acc. sg. f.	7	karma	7	karma	_
+6	kiM	nomsgn	nom. sg. n.	7	waxarwyam	7	sambanxah	_
+7	nayati	prsg3	pr. ac. sg. 3	0	root	0	root	_
+
+1	prativeSI	nomsgm	nom. sg. m.	5	karwa	5	karwa	_
+2	tadA	locsgm	loc. sg. m.	5	axikaranam	5	axikaranam	_
+3	SyAmasundaram	accsgm	acc. sg. m.	5	karma	5	karma	Collision
+4	kim	accsgn	acc. sg. n.	5	karma	5	karma	_
+5	apfcCat	impftsg3	impft. [6] ac. sg. 3	0	root	0	root	_
+
+1	BUyAMsaH	nomplm	nom. pl. m.	3	viseranam	4	karwa	Collision
+2	atra	locsgm	loc. sg. m.	4	axikaranam	4	axikaranam	_
+3	DAnyarASayaH	nomplm	nom. pl. m.	4	karwa	4	karwa	_
+4	vartante	prmdpl3	pr. [1] md. pl. 3	0	root	0	root	_
+
+1	vicaran	nomsgm	nom. sg. m.	3	viseranam	4	karwa	Collision
+2	kalpanAloke	locsgm	loc. sg. m.	1	axikaranam	4	axikaranam	_
+3	janaH	nomsgm	nom. sg. m.	4	karwa	4	karwa	_
+4	vetti	prsg3	pr. [2] ac. sg. 3	0	root	0	root	_
+5	na	part	part.	4	sambanxah	4	sambanxah	_
+6	tatPalam	accsgn	acc. sg. n.	4	karma	4	karma	_
+
+1	itaH	adv	adv.	5	kriyaviseranam	5	apaxanam	Collision
+2	AvaSyakatAnusAram	ablsgm	abl. sg. m.	5	apaxanam	5	apaxanam	_
+3	janAH	nomplm	nom. pl. m.	5	karwa	5	karwa	_
+4	svakIyavastUni	accpln	acc. pl. n.	5	karma	5	karma	_
+5	gfhRanti	prpl3	pr. [9] ac. pl. 3	0	root	0	root	_
+6	sma	part	part.	5	sambanxah	5	sambanxah	_
+
+1	pitaraH	nomplm	nom. pl. m.	2	karma	2	karwa	Collision
+2	vandyante	prpl3	pr. ps. pl. 3	0	root	0	root	_
+3	putrEH	instplm	i. pl. m.	2	karwa	2	karwa	_
+
+1	rAtrO	locsgf	loc. sg. f.	3	axikaranam	8	axikaranam	Collision
+2	atra	locsgn	loc. sg. n.	3	axikaranam	8	axikaranam	_
+3	Agatasya	gsgm	g. sg. m.	5	viseranam	5	viseranam	_
+4	api	conj	conj.	3	sambanxah	3	sambanxah	_
+5	me	gsg*	g. sg. *	6	rartisambanxah	8	rartisambanxah	_
+6	evam	adv	adv.	8	kriyaviseranam	8	kriyaviseranam	_
+7	eva	prep	prep.	6	sambanxah	6	sambanxah	_
+8	aBavat	impftsg3	impft. [1] ac. sg. 3	0	root	0	root	_
+
+1	idAnIm	locsgn	loc. sg. n.	7	axikaranam	7	axikaranam	Collision
+2	ayam	nomsgm	nom. sg. m.	4	viseranam	7	karwa	Collision
+3	me	gsg*	g. sg. *	4	rartisambanxah	4	rartisambanxah	_
+4	pitA	nomsgm	nom. sg. m.	7	karwa	7	karwa	_
+5	atra	locsgn	loc. sg. n.	7	axikaranam	7	axikaranam	_
+6	eva	prep	prep.	5	sambanxah	5	sambanxah	_
+7	vatsyati	futsg3	fut. ac. sg. 3	0	root	0	root	_
+
+1	tat	accsgn	acc. sg. n.	3	viseranam	4	karma	Collision
+2	prAyaScittAya	datsgn	dat. sg. n.	4	waxarwyam	4	waxarwyam	_
+3	tapaH	accsgn	acc. sg. n.	4	karma	4	karma	_
+4	taptum	inf	inf.	5	prayojanam	5	prayojanam	_
+5	gacCAmi	prsg1	pr. [1] ac. sg. 1	0	root	0	root	_
+
+1	tanuzu	locplm	loc. pl. m.	2	viseranam	2	viseranam	_
+2	viBavezu	locplm	loc. pl. m.	4	axikaranam	4	axikaranam	_
+3	jYAtiBiH	instplm	i. pl. m.	4	karwa	4	karwa	Collision
+4	tyajyante	prpl3	pr. ps. pl. 3	0	root	0	root	_
+5	narAH	nomplm	nom. pl. m.	4	karma	4	karwa	_
+
+1	ekadA	locplm	loc. pl. m.	5	axikaranam	5	axikaranam	_
+2	arjunaH	nomsgm	nom. sg. m.	5	karwa	5	karwa	_
+3	Bagavantam	accsgm	acc. sg. m.	4	viseranam	5	karma	Collision
+4	SrIkfzRam	accsgm	acc. sg. m.	5	karma	5	karma	_
+5	pfzwavAn	ppa	ppa.	0	root	0	root	_
+
+1	kim	ind	ind.	8	sambanxah	8	sambanxah	_
+2	kzutpipAsayoH	gduf	g. du. f.	3	rartisambanxah	3	rartisambanxah	_
+3	SAntikArakam	nomsgn	nom. sg. n.	4	viseranam	4	viseranam	_
+4	sADanam	nomsgn	nom. sg. n.	8	karwa	8	karwa	Collision
+5	jAtiviSezasya	gsgm	g. sg. m.	6	rartisambanxah	6	rartisambanxah	_
+6	sparSena	instsgm	i. sg. m.	8	karanam	8	karanam	_
+7	dUzitam	accsgn	acc. sg. n.	8	karma	8	karwa	_
+8	Bavati	prsg3	pr. [1] ac. sg. 3	0	root	0	root	_
+
+1	avilambam	adv	adv.	7	kriyaviseranam	7	kriyaviseranam	_
+2	eva	prep	prep.	1	sambanxah	1	sambanxah	_
+3	idAnIm	locsgn	loc. sg. n.	7	axikaranam	7	axikaranam	Collision
+4	imAm	accsgf	acc. sg. f.	7	karma	5	viseranam	_
+5	bahusammAnasahitAm	accsgf	acc. sg. f.	7	karmasamanaxikaranam	7	karma	_
+6	svakIyasTAnam	locsgm	loc. sg. m.	7	axikaranam	7	axikaranam	_
+7	prApayatu	caimpsg3	ca. imp. ac. sg. 3	0	root	0	root	_
+
+1	rAmakfzRaparamahaMsamahABAgAnAm	gplm	g. pl. m.	2	rartisambanxah	2	rartisambanxah	_
+2	Sizyatvam	accsgn	acc. sg. n.	3	karma	3	karma	_
+3	aNgIkftvA	ppr	ppr.	5	purvakalah	5	bavalakranasapwami_samanakalah	_
+4	vivekAnandaH	nomsgm	nom. sg. m.	5	karwqsamanaxikaranam	5	karwa	Collision
+5	aBavat	impftsg3	impft. [1] ac. sg. 3	0	root	0	root	_
+6	narendradattaH	nomsgm	nom. sg. m.	5	karwa	5	karwa	_
+
+1	pitA	nomsgm	nom. sg. m.	4	karwa	4	karwa	_
+2	tam	accsgm	acc. sg. m.	4	karma	4	karma	Collision
+3	kim	accsgn	acc. sg. n.	4	karma	4	karma	_
+4	apfcCat	impftsg3	impft. [6] ac. sg. 3	0	root	0	root	_
+
+1	mArge	locsgn	loc. sg. n.	5	axikaranam	5	axikaranam	Collision
+2	ekatra	locsgm	loc. sg. m.	5	axikaranam	3	viseranam	_
+3	rAtrO	locsgf	loc. sg. f.	5	axikaranam	5	axikaranam	_
+4	viSrAmaH	nomsgm	nom. sg. m.	5	karma	5	karwa	_
+5	kalpitaH	capp	ca. pp.	0	root	0	root	_
+
+1	putraH	nomsgm	nom. sg. m.	4	karwa	4	karwa	_
+2	svapitaram	accsgm	acc. sg. m.	4	karma	4	karma	Collision
+3	kim	accsgn	acc. sg. n.	4	karma	4	karma	_
+4	kaTitavAn	ppa	ppa.	0	root	0	root	_
+
+1	cakrAByAm	instdun	inst. du. n.	2	karanam	2	karwa	Collision
+2	calati	prsg3	pr. [1] ac. sg. 3	0	root	0	root	_
+3	raTaH	nomsgm	nom. sg. m.	2	karwa	2	karwa	_
+
+1	BavAn	nomsgm	nom. sg. m.	4	karwa	4	karwa	_
+2	idam	accsgn	acc. sg. n.	3	viseranam	4	karma	Collision
+3	kim	accsgn	acc. sg. n.	4	karma	4	karma	_
+4	karoti	prsg3	pr. [8] ac. sg. 3	0	root	0	root	_
+
+1	BAraviH	nomsgm	nom. sg. m.	7	karwa	7	karwa	Collision
+2	viSvaviKyAtaH	nomsgm	nom. sg. m.	7	karwqsamanaxikaranam	5	viseranam	_
+3	ekaH	nomsgm	nom. sg. m.	4	viseranam	4	viseranam	_
+4	ajaraH	nomsgm	nom. sg. m.	6	viseranam	5	viseranam	_
+5	amaraH	nomsgm	nom. sg. m.	6	viseranam	7	karwa	_
+6	mahAkaviH	nomsgm	nom. sg. m.	7	karwqsamanaxikaranam	7	karwqsamanaxikaranam	_
+7	Bavatu	impsg3	imp. [1] ac. sg. 3	0	root	0	root	_
+
+1	tatra	locsgm	loc. sg. m.	3	axikaranam	3	axikaranam	Collision
+2	gaNgAtawe	locsgm	loc. sg. m.	3	axikaranam	3	axikaranam	_
+3	Braman	ppr	ppr. [1] ac.	6	bavalakranasapwami_samanakalah	6	bavalakranasapwami_samanakalah	_
+4	ekam	accsgm	acc. sg. m.	5	viseranam	5	viseranam	_
+5	sannyAsinam	accsgm	acc. sg. m.	6	karma	6	karma	_
+6	adrAkzIt	aorsg3	aor. [4] ac. sg. 3	0	root	0	root	_
+
+1	daSaraTAtmajaH	nomsgm	nom. sg. m.	2	viseranam	2	viseranam	_
+2	rAmaH	nomsgm	nom. sg. m.	5	karwa	5	karwa	Collision
+3	SabaryA	nomsgf	nom. sg. f.	5	karwa	5	karwa	_
+4	samyak	adv	adv.	5	kriyaviseranam	5	kriyaviseranam	_
+5	pUjitaH	pp	pp.	0	root	0	root	_
+
+1	tadA	locsgm	loc. sg. m.	7	axikaranam	12	axikaranam	Collision
+2	sugrIvasahitaH	nomsgm	nom. sg. m.	3	viseranam	3	viseranam	_
+3	rAmaH	nomsgm	nom. sg. m.	12	karwa	12	karwa	_
+4	tat	accsgn	acc. sg. n.	5	viseranam	5	viseranam	_
+5	puzpakam	accsgn	acc. sg. n.	7	karma	9	karma	Collision
+6	punaH	adv	adv.	7	kriyaviseranam	7	kriyaviseranam	_
+7	samAruhya	prsg1	pr. ps. sg. 1	12	purvakalah	9	purvakalah	_
+8	AKyAyikAm	accsgf	acc. sg. f.	9	karma	9	karma	_
+9	jalpan	ppr	ppr. [1] ac.	12	bavalakranasapwami_samanakalah	12	bavalakranasapwami_samanakalah	_
+10	tadA	locsgm	loc. sg. m.	12	axikaranam	12	axikaranam	_
+11	nandigrAmam	accsgm	acc. sg. m.	12	karma	12	karma	_
+12	yayO	pftsg3	pft. ac. sg. 3	0	root	0	root	_
+
+1	anyA	nomsgf	nom. sg. f.	12	karwa	12	karwa	Collision
+2	ucCritagucCavAYCayA	instsgf	inst. sg. f.	7	hewuh	12	karanam	Collision
+3	salalitaM	conj	conj.	12	viseranam	4	viseranam	_
+4	sahacaraM	accsgm	acc. sg. m.	12	karma	7	karma	_
+5	pARinA	instsgm	inst. sg. m.	7	karanam	7	karanam	_
+6	aMse	locsgm	loc. sg. m.	7	axikaranam	7	axikaranam	_
+7	avalambya	conj	conj.	12	purvakalah	12	purvakalah	_
+8	sakalakalaBakumBaviBramAByAm	instdum	inst. du. m.	9	viseranam	12	karanam	_
+9	stanAByAM	instdum	inst. du. m.	12	karanam	12	karwa	_
+10	rasAt	ablsgm	abl. sg. m.	11	hewuh	11	hewuh	_
+11	urasi	locsgn	loc. sg. n.	12	axikaranam	12	axikaranam	_
+12	avatastare	pftsg3	pft. ac. sg. 3	0	root	0	root	_
+
+1	jagattrayEkasTapatiH	nomsgm	nom. sg. m.	2	viseranam	2	viseranam	_
+2	tvaM	nomsgn	nom. sg. n.	12	karwa	12	karwa	_
+3	helayA	instsgf	inst. sg. f.	4	viseranam	4	hewuh	_
+4	udDftaM	accsgm	acc. sg. m.	9	viseranam	8	viseranam	_
+5	PaRABftAM	gplm	g. pl. m.	6	rartisambanxah	6	rartisambanxah	_
+6	okasaH	gsgn	g. sg. n.	9	rartisambanxah	8	rartisambanxah	_
+7	ekam	accsgn	acc. sg. n.	8	viseranam	8	viseranam	_
+8	CAdanam	accsgn	acc. sg. n.	9	viseranam	12	karma	Collision
+9	BUtalam	accsgn	acc. sg. n.	12	karma	12	karma	_
+10	uccakEH	conj	conj.	11	viseranam	11	viseranam	_
+11	ahISvarastamBaSiraHsu	locpln	loc. pl. n.	12	axikaranam	12	axikaranam	_
+12	niveSayAmAsiTa	pftsg2	pft. ac. sg. 2	0	root	0	root	_
+
+1	tAm	accsgf	acc. sg. f.	9	karma	2	karma	_
+2	upetya	abs	abs.	9	purvakalah	9	purvakalah	_
+3	saH	nomsgm	nom. sg. m.	9	karwa	9	karwa	_
+4	anunayam	accsgm	acc. sg. m.	6	samucciwam	5	viseranam	_
+5	vinayam	accsgm	acc. sg. m.	6	samucciwam	7	karma	Collision
+6	ca	conj	conj.	7	karma	7	karma	_
+7	kftvA	abs	abs.	9	purvakalah	9	purvakalah	_
+8	rAjaBavanam	accsgn	acc. sg. n.	9	karma	9	karma	_
+9	AnItavAn	pp	pp.	0	root	0	root	_
+
+1	yAvat	adv	adv.	5	sambanxah	4	sambanxah	_
+2	aham	nomsg*	nom. sg. *	4	karwa	4	karwa	_
+3	na	part	part.	4	sambanxah	4	sambanxah	_
+4	Ahvayeyam	optsg1	opt. [1] ac. sg. 1	1	prawiyogi	5	prawiyogi	_
+5	tAvat	adv	adv.	10	anuyogi	10	sambanxah	_
+6	svamuKam	accsgn	acc. sg. n.	10	karma	10	karma	Collision
+7	mAm	accsg*	acc. sg. *	10	karmasamanaxikaranam	10	karma	_
+8	kadApi	locsgn	loc. sg. n.	10	axikaranam	10	axikaranam	_
+9	mA	part	part.	10	sambanxah	10	sambanxah	_
+10	darSaya	caimpsg2	ca. imp. ac. sg. 2	0	root	0	root	_
+
+1	mAm	accsg*	acc. sg. *	3	sambanxah	3	karma	Collision
+2	svaveSam	accsgm	acc. sg. m.	3	sambanxah	3	karma	_
+3	pariDApya	caabs	ca. abs.	12	purvakalah	12	purvakalah	_
+4	kadAcit	locsgm	loc. sg. m.	12	axikaranam	9	axikaranam	_
+5	BavAn	nomsgm	nom. sg. m.	12	karwa	12	karwa	_
+6	api	conj	conj.	5	sambanxah	5	sambanxah	_
+7	mama	gsg*	g. sg. *	8	rartisambanxah	8	rartisambanxah	_
+8	veSam	accsgm	acc. sg. m.	9	karma	9	karma	_
+9	DftvA	abs	abs.	12	purvakalah	12	purvakalah	_
+10	mama	gsg*	g. sg. *	11	rartisambanxah	11	rartisambanxah	_
+11	sevAm	accsgf	acc. sg. f.	12	karma	12	karma	_
+12	karotu	impsg3	imp. [8] ac. sg. 3	0	root	0	root	_
+
+1	paramapUjanIya	vocsgm	voc. sg. m.	12	samboxyah	12	samboxyah	_
+2	adya	adv	adv.	6	sambanxah	6	sambanxah	_
+3	yaTA	conj	conj.	5	axikaranam	6	sambanxah	_
+4	BavAn	nomsgm	nom. sg. m.	5	karwa	5	karwa	_
+5	upadiSati	locsgm	loc. sg. m.	2	prawiyogi	3	prawiyogi	_
+6	taTA	adv	adv.	12	anuyogi	12	anuyogi	_
+7	mama	gsg*	g. sg. *	9	rartisambanxah	8	rartisambanxah	_
+8	saBAyAm	locsgf	loc. sg. f.	12	axikaranam	12	axikaranam	Collision
+9	cIraharaRakAle	locsgm	loc. sg. m.	12	axikaranam	12	axikaranam	_
+10	kim	datsgn	dat. sg. n.	12	waxarwyam	12	waxarwyam	_
+11	na	part	part.	12	sambanxah	12	sambanxah	_
+12	upadizwavAn	pp	pp.	0	root	0	root	_
+
+1	asmin	locsgm	loc. sg. m.	11	axikaranam	4	viseranam	_
+2	dantojjvalAsu	locplf	loc. pl. f.	4	viseranam	4	viseranam	_
+3	sadratnacitrakawakAsu	locplf	loc. pl. f.	4	viseranam	4	viseranam	_
+4	aDityakAsu	locplf	loc. pl. f.	11	axikaranam	11	axikaranam	Collision
+5	vimalaupalameKalaantAH	nomplf	nom. pl. f.	8	viseranam	8	viseranam	_
+6	bfhannitambAH	nomplf	nom. pl. f.	8	viseranam	8	viseranam	_
+7	GanakomalagaRqaSElAH	nomplf	nom. pl. f.	8	viseranam	8	viseranam	_
+8	nAryaH	nomplf	nom. pl. f.	11	karwa	11	karwa	_
+9	anurUpam	conj	conj.	10	viseranam	10	viseranam	_
+10	aDivAsaM	conj	conj.	11	karma	11	axikaranam	_
+11	Bajanti	prpl3	pr. ac. pl. 3	0	root	0	root	_
+
+1	tatra	locsgn	loc. sg. n.	3	axikaranam	10	axikaranam	_
+2	saH	nomsgm	nom. sg. m.	11	karwa	11	karwa	_
+3	nivAsinO	accdum	acc. du. m.	6	viseranam	6	viseranam	_
+4	vfdDO	accdum	acc. du. m.	6	viseranam	5	viseranam	_
+5	kuzWinO	accdum	acc. du. m.	6	viseranam	6	viseranam	_
+6	dampatI	accdum	acc. du. m.	8	karma	10	karma	Collision
+7	tElAByaNgasnAnAdinA	instsgm	i. sg. m.	8	karanam	8	karanam	_
+8	viSoDya	caabs	ca. abs.	11	purvakalah	11	purvakalah	_
+9	Bojanam	accsgn	acc. sg. n.	10	karma	10	karma	_
+10	paktvA	abs	abs.	11	purvakalah	11	purvakalah	_
+11	BojitavAn	capp	ca. pp.	0	root	0	root	_
+
+1	himalavasadfSaH	accsgm	acc. sg. m.	2	viseranam	2	viseranam	_
+2	SramodabindUn	accplm	acc. pl. m.	10	karma	10	karma	Collision
+3	apanayatA	instsgm	inst. sg. m.	5	viseranam	5	viseranam	_
+4	kila	conj	conj.	3	sambanxah	3	sambanxah	_
+5	taruRena	instsgm	inst. sg. m.	10	karwa	10	karwa	_
+6	nUtanoQavaDvAH	gsgf	g. sg. f.	7	rartisambanxah	7	rartisambanxah	_
+7	kucakalaSakiSorakO	accdum	acc. du. m.	10	karma	10	karma	_
+8	kaTaYcit	conj	conj.	10	viseranam	10	kriyaviseranam	_
+9	taralatayA	instsgf	inst. sg. f.	10	hewuh	10	hewuh	_
+10	paspfSAte	pftsg3	pft. ac. sg. 3	0	root	0	root	_
+
+1	saH	nomsgm	nom. sg. m.	8	karwa	11	karwa	Collision
+2	eva	prep	prep.	1	sambanxah	1	sambanxah	_
+3	vAstavikaH	nomsgm	nom. sg. m.	7	viseranam	5	viseranam	_
+4	sanyAsI	nomsgm	nom. sg. m.	7	samucciwam	7	samucciwam	_
+5	mahAtmA	nomplm	nom. pl. m.	7	samucciwam	7	samucciwam	_
+6	rAzwranetA	nomsgm	nom. sg. m.	7	samucciwam	7	samucciwam	_
+7	vA	conj	conj.	1	viseranam	11	karwa	_
+8	yaH	nomsgm	nom. sg. m.	0	root	11	karwa	_
+9	nirDanAn	accplm	acc. pl. m.	12	karma	11	karma	_
+10	sevate	nomduf	nom. du. f.	12	sambanxah	11	karwqsamanaxikaranam	_
+11	Bajate	nomsgn	nom. sg. n.	12	sambanxah	0	root	_
+12	vA	conj	conj.	1	prawiyogi	11	sambanxah	_
+
+1	idam	accsgn	acc. sg. n.	2	karma	2	karma	_
+2	SrutvA	abs	abs.	9	purvakalah	9	purvakalah	_
+3	AnandASruBiH	instpln	i. pl. n.	4	karanam	4	karanam	_
+4	pariplutaH	nomsgm	nom. sg. m.	5	viseranam	5	viseranam	_
+5	tapasvI	nomsgm	nom. sg. m.	9	karwa	9	karwa	_
+6	tam	accsgm	acc. sg. m.	8	viseranam	9	karma	Collision
+7	AtmanaH	gsg*	g. sg. *	8	rartisambanxah	8	rartisambanxah	_
+8	gurum	accsgm	acc. sg. m.	9	karma	9	karma	_
+9	amanyata	impftsg3	impft. ps. sg. 3	0	root	0	root	_
+
+1	etat	accsgn	acc. sg. n.	4	viseranam	2	viseranam	_
+2	Ayuzyam	accsgn	acc. sg. n.	4	viseranam	3	viseranam	_
+3	AKyAnam	accsgn	acc. sg. n.	4	viseranam	5	karma	Collision
+4	rAmAyaRam	accsgn	acc. sg. n.	5	karma	5	karma	_
+5	paWan	nomsgm	nom. sg. m.	11	bavalakranasapwami_samanakalah	8	viseranam	_
+6	naraH	nomsgm	nom. sg. m.	11	karwa	8	viseranam	_
+7	saputrapOtraH	nomsgm	nom. sg. m.	6	viseranam	8	viseranam	_
+8	sagaRaH	nomsgm	nom. sg. m.	6	viseranam	11	karwa	_
+9	pretya	abs	abs.	11	purvakalah	11	purvakalah	_
+10	svarge	locsgm	loc. sg. m.	11	axikaranam	11	axikaranam	_
+11	mahIyate	prmdsg3	pr. [vn.] md. sg. 3	0	root	0	root	_
+
+1	sA	nomsgf	nom. sg. f.	3	karwa	10	karwa	Collision
+2	praTamam	locsgn	loc. sg. n.	3	axikaranam	3	axikaranam	_
+3	spfzwavatI	pp	pp.	4	samucciwam	4	samucciwam	_
+4	ca	conj	conj.	0	root	10	purvakalah	_
+5	kramaSaH	adv	adv.	10	kriyaviseranam	10	kriyaviseranam	_
+6	sarvAH	nomplf	nom. pl. f.	8	viseranam	8	viseranam	_
+7	api	conj	conj.	6	sambanxah	6	sambanxah	_
+8	rAjYyaH	nomplf	nom. pl. f.	10	karwa	10	karwa	_
+9	rAjakumAram	accsgm	acc. sg. m.	10	karma	10	karma	_
+10	spfzwavatyaH	pp	pp.	4	samucciwam	0	root	_
+
+1	yatra	conj	conj.	6	viseranam	11	axikaranam	_
+2	apAMniDiH	nomsgm	nom. sg. m.	11	karwa	11	karwa	Collision
+3	amBaScyutaH	accplm	acc. pl. m.	5	viseranam	5	viseranam	_
+4	PenapinadDaBAsaH	accplm	acc. pl. m.	5	viseranam	5	viseranam	_
+5	komalaratnarASIn	accplm	acc. pl. m.	11	karma	7	karma	_
+6	Atape	locsgm	loc. sg. m.	7	axikaranam	7	axikaranam	_
+7	dAtum	inf	inf.	8	prawiyogi	8	prawiyogi	_
+8	iva	conj	conj.	5	anuyogi	10	anuyogi	_
+9	aDitalpaM	conj	conj.	11	axikaranam	11	viseranam	_
+10	taraNgahastEH	instplm	inst. pl. m.	11	karanam	11	karwa	_
+11	vistArayAmAsa	pftsg3	pft. ac. sg. 3	0	root	0	root	_
+
+1	jagatAM	gplm	g. pl. m.	2	rartisambanxah	2	rartisambanxah	_
+2	BartA	nomsgm	nom. sg. m.	5	karwa	5	karwa	Collision
+3	saH	nomsgm	nom. sg. m.	2	viseranam	5	karwa	_
+4	yataH	conj	conj.	5	apaxanam	5	apaxanam	_
+5	jagAma	pftsg3	pft. ac. sg. 3	13	samucciwam	13	samucciwam	_
+6	tataH	conj	conj.	12	apaxanam	7	upapaxasambanxah	_
+7	aDaH	conj	conj.	12	sambanxah	12	axikaranam	_
+8	DaritryAH	gsgf	g. sg. f.	7	upapaxasambanxah	9	rartisambanxah	_
+9	DartrA	instsgm	inst. sg. m.	10	viseranam	10	viseranam	_
+10	PaRinA	instsgm	inst. sg. m.	12	karwa	12	karwa	_
+11	mahABaraABugnaSiraHsahasrasAhAyakavyagraBujaM	nomsgn	nom. sg. n.	12	karma	12	karma	_
+12	prasasre	pftmdsg3	pft. md. sg. 3	13	samucciwam	13	samucciwam	_
+13	ca	conj	conj.	0	root	0	root	_
+
+1	BagavataH	gsgn	g. sg. n.	2	viseranam	2	viseranam	_
+2	govindadevasya	gsgm	g. sg. m.	5	rartisambanxah	5	rartisambanxah	_
+3	ekaH	nomsgm	nom. sg. m.	4	viseranam	5	viseranam	_
+4	nirDanaH	nomsgm	nom. sg. m.	5	viseranam	5	viseranam	_
+5	BaktaH	nomsgm	nom. sg. m.	11	karwa	11	karwa	_
+6	pratidinam	nomsgn	nom. sg. n.	11	sambanxah	10	axikaranam	Collision
+7	niyamitarUpeRa	locsgm	loc. sg. m.	11	axikaranam	10	axikaranam	_
+8	prAtaH	adv	adv.	11	kriyaviseranam	10	axikaranam	_
+9	darSanam	accsgn	acc. sg. n.	10	karma	10	karma	_
+10	kartum	inf	inf.	11	prayojanam	11	prayojanam	_
+11	gacCati	prsg3	pr. [1] ac. sg. 3	0	root	0	root	_
+12	sma	part	part.	11	sambanxah	11	sambanxah	_
+
+1	tatra	locsgm	loc. sg. m.	6	axikaranam	6	axikaranam	_
+2	ca	conj	conj.	1	sambanxah	1	sambanxah	_
+3	ekasmAt	ablsgn	abl. sg. n.	4	viseranam	6	apaxanam	Collision
+4	sajjanAt	ablsgn	abl. sg. n.	6	apaxanam	6	apaxanam	_
+5	leKanIm	accsgf	acc. sg. f.	6	karma	6	karma	_
+6	gfhItvA	abs	abs.	10	purvakalah	10	purvakalah	_
+7	cEkapatram	accsgn	acc. sg. n.	10	karma	10	karma	Collision
+8	lokasevAmaRqalanAmnA	instsgn	i. sg. n.	10	karanam	10	karanam	_
+9	deyam	accsgm	acc. sg. m.	10	karmasamanaxikaranam	10	karma	_
+10	liKitavAn	ppa	ppa.	0	root	0	root	_
+
+1	ekasaptAhapUrvam	locsgm	loc. sg. m.	12	axikaranam	9	axikaranam	Collision
+2	eva	prep	prep.	1	sambanxah	1	sambanxah	_
+3	anyaH	nomsgm	nom. sg. m.	7	viseranam	7	viseranam	_
+4	ekaH	nomsgm	nom. sg. m.	13	samucciwam	13	samucciwam	_
+5	tAdfSaH	nomplm	nom. pl. m.	7	viseranam	7	viseranam	_
+6	eva	prep	prep.	7	sambanxah	5	sambanxah	_
+7	mizwAnnavyavasAyI	nomsgm	nom. sg. m.	12	karwa	12	karwa	_
+8	tatra	locsgm	loc. sg. m.	9	axikaranam	9	axikaranam	_
+9	Agatya	abs	abs.	12	purvakalah	12	purvakalah	_
+10	svakIyam	accsgm	acc. sg. m.	11	viseranam	11	viseranam	_
+11	vyavasAyam	accsgn	acc. sg. n.	12	karma	12	karma	_
+12	prAraBata	impftmdsg3	impft. [1] md. sg. 3	13	samucciwam	13	samucciwam	_
+13	ca	conj	conj.	0	root	0	root	_
+
+1	SuklAMSukoparacitAni	nompln	nom. pl. n.	5	viseranam	5	viseranam	_
+2	raSmivitatAni	nompln	nom. pl. n.	5	viseranam	5	viseranam	_
+3	candraAkftIni	nompln	nom. pl. n.	5	viseranam	5	viseranam	_
+4	naraaDipAnAM	gplm	g. pl. m.	5	rartisambanxah	5	rartisambanxah	_
+5	veSmAni	nompln	nom. pl. n.	10	karwa	10	karma	Collision
+6	nirantarABiH	instplf	inst. pl. f.	8	viseranam	8	viseranam	_
+7	uccEH	conj	conj.	8	viseranam	8	viseranam	_
+8	gajamaRqalikABiH	instplf	inst. pl. f.	10	karanam	10	karanam	_
+9	nIlaaBrapaNktipariveSaM	accsgm	acc. sg. m.	10	karma	10	karma	_
+10	aDijagmuH	pftpl3	pft. ac. pl. 3	0	root	0	root	_
+11	iva	conj	conj.	10	sambanxah	10	sambanxah	_
+
+1	kim	accsgn	acc. sg. n.	3	sambanxah	2	viseranam	_
+2	idam	accsgn	acc. sg. n.	3	karma	3	karma	_
+3	yuktam	pp	pp.	0	root	4	prawiyogi	_
+4	yat	conj	conj.	3	sambanxah	7	sambanxah	_
+5	mAtfpremRA	instsgm	i. sg. m.	7	karanam	7	karanam	_
+6	mAm	accsg*	acc. sg. *	7	karma	7	karma	_
+7	vaYcitavatyA	cappa	ca. ppa.	8	viseranam	0	root	_
+8	tvayA	impftsg2	impft. [2] ac. sg. 2	12	karwa	12	karwa	Collision
+9	aham	nomsg*	nom. sg. *	12	karma	12	karwa	_
+10	idAnIm	locsgm	loc. sg. m.	12	axikaranam	12	axikaranam	_
+11	rAjyena	instsgn	i. sg. n.	12	karanam	12	karwa	_
+12	loBanIyaH	capfp	ca. pfp. [2]	13	prawiyogi	0	root	_
+13	iti	part	part.	4	anuyogi	12	sambanxah	_
+
+1	yadi	conj	conj.	5	sambanxah	5	sambanxah	_
+2	gopyam	nomsgn	nom. sg. n	4	karwa	4	karwa	_
+3	na	part	part.	4	sambanxah	4	sambanxah	_
+4	asti	prsg3	pr. [2] ac. sg. 3	1	prawiyogi	1	prawiyogi	_
+5	tarhi	adv	adv.	9	anuyogi	9	anuyogi	_
+6	mama	gsg*	g. sg. *	7	rartisambanxah	7	rartisambanxah	_
+7	jijYAsAm	accsgf	acc. sg. f.	8	viseranam	9	karma	Collision
+8	imAm	accsgf	acc. sg. f.	9	karma	9	karma	_
+9	samADehi	impsg2	imp. [3] ac. sg. 2	0	root	0	root	_
+
+1	vitarakaH	nomsgm	nom. sg. m.	12	karwa	12	karwa	_
+2	tasyAH	gsgf	g. sg. f.	4	rartisambanxah	4	rartisambanxah	_
+3	imAm	accsgf	acc. sg. f.	4	viseranam	4	viseranam	_
+4	aSaktatAm	accsgf	acc. sg. f.	5	karma	5	karma	_
+5	dfzwvA	abs	abs.	12	purvakalah	12	purvakalah	_
+6	ekam	accsgn	acc. sg. n.	8	viseranam	8	viseranam	_
+7	viSizwam	accsgn	acc. sg. n.	8	viseranam	8	viseranam	_
+8	sTUlamodakam	accsgn	acc. sg. n.	12	karma	12	karma	Collision
+9	sarveByaH	ablplm	abl. pl. m.	10	waxarwyam	12	sampraxanam	Collision
+10	vitaraRAnantaram	locsgm	loc. sg. m.	12	axikaranam	12	karma	_
+11	tasyE	datsgf	dat. sg. f.	12	sampraxanam	12	sampraxanam	_
+12	dattavAn	ppa	ppa.	0	root	0	root	_
+
+1	vAnaraH	nomsgm	nom. sg. m.	2	viseranam	2	viseranam	_
+2	sugrIvaH	nomsgm	nom. sg. m.	11	karwa	11	karwa	Collision
+3	rAmasya	gsgm	g. sg. m.	4	rartisambanxah	4	rartisambanxah	_
+4	tatsarvam	accsgm	acc. sg. m.	5	karma	5	karma	_
+5	SrutvA	abs	abs.	11	purvakalah	11	purvakalah	_
+6	prItaH	nomsgm	nom. sg. m.	7	viseranam	7	viseranam	_
+7	rAmaH	nomsgm	nom. sg. m.	11	karwa	11	karwa	_
+8	agnisAkzikam	accsgn	acc. sg. n.	9	viseranam	9	viseranam	_
+9	saKyam	accsgn	acc. sg. n.	11	karma	11	karma	_
+10	eva	prep	prep.	9	sambanxah	9	sambanxah	_
+11	cakAra	pftsg3	pft. ac. sg. 3	0	root	0	root	_
+
+1	param	accsgm	acc. sg. m.	2	viseranam	2	viseranam	_
+2	anyadvayam	accsgm	acc. sg. m.	11	karma	6	karma	Collision
+3	tu	conj	conj.	2	sambanxah	2	sambanxah	_
+4	parIkzAyAm	locsgf	loc. sg. f.	6	axikaranam	6	axikaranam	_
+5	asaPalam	accsgm	acc. sg. m.	6	karma	6	karma	_
+6	matvA	abs	abs.	10	purvakalah	10	purvakalah	_
+7	gurukule	locsgn	loc. sg. n.	9	axikaranam	9	axikaranam	_
+8	eva	prep	prep.	7	sambanxah	7	sambanxah	_
+9	sTAtum	inf	inf.	10	prayojanam	10	prayojanam	_
+10	AdiSat	impftsg3	impft. [6] ac. sg. 3	0	root	0	root	_
+11	iti	part	part.	10	sambanxah	10	sambanxah	_
+
+1	asmin	locsgm	loc. sg. m.	2	viseranam	2	viseranam	_
+2	dale	locsgm	loc. sg. m.	9	axikaranam	9	axikaranam	_
+3	sarve	nomplm	nom. pl. m.	5	viseranam	5	viseranam	_
+4	api	conj	conj.	3	sambanxah	3	sambanxah	_
+5	pipIlakAH	nomplm	nom. pl. m.	9	karwa	9	karwa	Collision
+6	prAktanAH	vocplm	voc. pl. m.	7	viseranam	7	viseranam	_
+7	mahendrAH	nomplm	nom. pl. m.	9	karwqsamanaxikaranam	9	karwa	_
+8	eva	conj	conj.	9	sambanxah	7	sambanxah	_
+9	santi	prpl3	pr. ac. pl. 3	0	root	0	root	_
+
+1	kintu	adv	adv.	9	sambanxah	9	sambanxah	_
+2	praSAsanataH	ablsgm	abl. sg. m.	9	apaxanam	9	apaxanam	Collision
+3	teByaH	datpln	dat. pl. n.	9	sampraxanam	9	apaxanam	_
+4	ASvAsanataH	ablsgm	abl. sg. m.	5	apaxanam	5	apaxanam	_
+5	atiriktam	nomsgn	nom. sg. n.	9	karwa	6	viseranam	_
+6	kim	nomsgn	nom. sg. n.	9	karwqsamanaxikaranam	9	karma	_
+7	api	conj	conj.	6	sambanxah	6	sambanxah	_
+8	nEva	prep	prep.	9	sambanxah	9	sambanxah	_
+9	militam	pp	pp.	0	root	0	root	_
+
+1	hi	conj	conj.	5	sambanxah	13	samucciwam	_
+2	sA	nomsgf	nom. sg. f.	5	karwa	5	karwa	_
+3	aSeze	locsgn	loc. sg. n.	4	viseranam	4	viseranam	_
+4	vapuzi	locsgn	loc. sg. n.	5	axikaranam	5	axikaranam	_
+5	vasati	prsg3	pr. ac. sg. 3	13	samucciwam	13	samucciwam	_
+6	kiYca	conj	conj.	12	sambanxah	8	sambanxah	_
+7	aKilalokakAntA	nomsgf	nom. sg. f.	10	viseranam	8	viseranam	_
+8	itarA	nomsgf	nom. sg. f.	10	viseranam	12	karwa	Collision
+9	tu	conj	conj.	8	sambanxah	8	sambanxah	_
+10	ananyakAntA	nomsgf	nom. sg. f.	12	karwa	12	karwa	_
+11	urasi	locsgn	loc. sg. n.	12	axikaranam	12	axikaranam	_
+12	vasati	prsg3	pr. ac. sg. 3	13	samucciwam	13	samucciwam	_
+13	ca	conj	conj.	0	root	0	root	_
+
+1	aham	nomsg*	nom. sg. *	5	karwa	12	karwa	_
+2	tam	accsgm	acc. sg. m.	5	karma	5	karma	_
+3	svakakze	locsgm	loc. sg. m.	5	axikaranam	5	axikaranam	Collision
+4	yadA	locsgm	loc. sg. m.	8	axikaranam	5	axikaranam	_
+5	upAveSayam	caimpftsg1	ca. impft. ac. sg. 1	4	prawiyogi	12	purvakalah	_
+6	mama	gsg*	g. sg. *	7	rartisambanxah	7	rartisambanxah	_
+7	putraH	nomsgm	nom. sg. m.	10	karwa	12	karwqsamanaxikaranam	_
+8	tadA	locsgm	loc. sg. m.	10	axikaranam	12	axikaranam	_
+9	vidyAlayataH	locsgf	loc. sg. f.	10	apaxanam	10	axikaranam	_
+10	AgataH	nomsgm	nom. sg. m.	12	karwqsamanaxikaranam	12	karwqsamanaxikaranam	_
+11	eva	prep	prep.	10	sambanxah	10	sambanxah	_
+12	AsIt	aorsg3	aor. [5] ac. sg. 3	0	root	0	root	_
+
+1	priyaH	nomsgm	nom. sg. m.	5	karwa	5	karwa	_
+2	yAM	accsgf	acc. sg. f.	3	sambanxah	4	viseranam	_
+3	yAM	accsgf	acc. sg. f.	4	viseranam	4	viseranam	_
+4	kAtarAkzIM	accsgf	acc. sg. f.	5	karma	5	karma	_
+5	prEkzata	impftmdsg3	impft . md. sg. 3	11	samucciwam	11	samucciwam	_
+6	sA	nomsgf	nom. sg. f.	7	sambanxah	10	karwa	Collision
+7	sA	nomsgf	nom. sg. f.	9	viseranam	10	karwa	_
+8	hriyA	instsgf	inst. sg. f.	10	karanam	10	karanam	_
+9	namramuKI	nomsgf	nom. sg. f.	10	karwa	10	karwqsamanaxikaranam	_
+10	baBUva	pftsg3	pft. ac. sg. 3	11	samucciwam	11	samucciwam	_
+11	ca	conj	conj.	0	root	0	root	_
+
+1	katipayamAsAnantaram	locsgm	loc. sg. m.	9	axikaranam	9	axikaranam	Collision
+2	saH	nomsgm	nom. sg. m.	4	viseranam	5	viseranam	_
+3	eva	prep	prep.	2	sambanxah	2	sambanxah	_
+4	mahAtmA	accplf	acc. pl. f.	9	karma	9	karma	_
+5	rAjYA	nomsgm	nom. sg. m.	9	karwa	9	karwa	_
+6	punaH	locsgn	loc. sg. n.	9	axikaranam	9	axikaranam	_
+7	api	conj	conj.	6	sambanxah	6	sambanxah	_
+8	BagavaccarcAyE	datsgf	dat. sg. f.	9	waxarwyam	9	prayojanam	_
+9	AhUtaH	pp	pp.	0	root	0	root	_
+
+1	ante	locsgm	loc. sg. m.	4	axikaranam	7	axikaranam	_
+2	asO	nomsgm	nom. sg. m.	11	karwa	11	karwa	_
+3	vikrayikam	accsgm	acc. sg. m.	4	karma	4	karma	_
+4	aBinandya	abs	abs.	11	purvakalah	7	purvakalah	_
+5	vAYCitam	accsgn	acc. sg. n.	6	viseranam	6	viseranam	_
+6	guqam	accsgm	acc. sg. m.	7	karma	9	karma	Collision
+7	AdAya	abs	abs.	11	purvakalah	11	purvakalah	_
+8	gfham	accsgn	acc. sg. n.	9	karma	9	karma	_
+9	pratyAgatya	abs	abs.	11	purvakalah	11	purvakalah	_
+10	haste	locsgm	loc. sg. m.	11	axikaranam	11	axikaranam	_
+11	samarpitavAn	pp	pp.	0	root	0	root	_
+12	iti	part	part.	11	sambanxah	11	sambanxah	_
+
+1	yadi	conj	conj.	4	sambanxah	4	sambanxah	_
+2	evam	adv	adv.	3	kriyaviseranam	3	kriyaviseranam	_
+3	asti	prsg3	pr. [2] ac. sg. 3	4	prawiyogi	1	prawiyogi	_
+4	tarhi	adv	adv.	11	anuyogi	11	anuyogi	_
+5	prAk	locsgn	loc. sg. n.	11	axikaranam	11	axikaranam	_
+6	eva	prep	prep.	5	sambanxah	5	sambanxah	_
+7	cOryapApataH	nomsgm	nom. sg. m.	5	upapaxasambanxah	11	karwa	Collision
+8	mAm	accsg*	acc. sg. *	11	karma	11	karma	_
+9	kaTam	adv	adv.	11	kriyaviseranam	11	kriyaviseranam	_
+10	na	part	part.	11	sambanxah	11	sambanxah	_
+11	amocayat	caimpftsg3	ca. impft. ac. sg. 3	0	root	0	root	_
+12	BavAn	nomsgm	nom. sg. m.	11	karwa	11	karwa	_
+
+1	viSrAntena	nomplf	nom. pl. f.	2	viseranam	2	hewuh	_
+2	BavatA	nomplf	nom. pl. f.	9	karwa	9	karwa	Collision
+3	mama	gsg*	g. sg. *	7	rartisambanxah	6	rartisambanxah	_
+4	api	prep	prep.	3	sambanxah	3	sambanxah	_
+5	ekasmin	locsgm	loc. sg. m.	7	viseranam	6	viseranam	_
+6	anAyAse	locsgm	loc. sg. m.	7	viseranam	8	axikaranam	_
+7	karmaRi	locsgm	loc. sg. m.	9	axikaranam	9	axikaranam	_
+8	sahAyena	nomsgm	nom. sg. m.	9	karwqsamanaxikaranam	9	karwa	_
+9	Bavitavyam	pfp	pfp. [3]	0	root	0	root	_
+
+1	tasya	gsgn	g. sg. n.	2	rartisambanxah	2	rartisambanxah	_
+2	vyavasAyam	accsgm	acc. sg. m.	4	karma	4	karma	_
+3	nizPalam	accsgm	acc. sg. m.	4	karmasamanaxikaranam	4	kriyaviseranam	_
+4	kartum	inf	inf.	9	prayojanam	9	prayojanam	_
+5	uddeSyena	instsgn	i. sg. n.	9	hewuh	9	karwa	Collision
+6	praTamavyavasAyI	nomsgm	nom. sg. m.	9	karwa	9	karwa	_
+7	svavipaRyAm	locsgf	loc. sg. f.	9	axikaranam	9	axikaranam	_
+8	pawwikAm	accsgf	acc. sg. f.	9	karma	9	karma	_
+9	Ayojayat	caimpftsg3	ca. impft. ac. sg. 3	0	root	0	root	_
+
+1	muktAH	nomplm	nom. pl. m.	5	karwa	8	viseranam	_
+2	kawakaM	accsgm	acc. sg. m.	3	upapaxasambanxah	5	karma	Collision
+3	paritaH	conj	conj.	4	axikaranam	5	axikaranam	_
+4	tfRAni	accpln	acc. pl. n.	5	karma	5	karma	_
+5	carantaH	nomplm	nom. pl. m.	10	bavalakranasapwami_samanakalah	8	viseranam	_
+6	truwyadvitAnatanikAvyatizaNgaBAjaH	nomplm	nom. pl. m.	8	viseranam	8	viseranam	_
+7	sarozaparicArakavAryamARAH	nomplm	nom. pl. m.	8	viseranam	8	viseranam	_
+8	turaNgAH	nomplm	nom. pl. m.	10	karwa	10	karma	_
+9	dAmAYcalasKalitalolapadaM	accsgm	acc. sg. m.	10	karma	10	kriyaviseranam	_
+10	sasruH	pftpl3	pft. ac. pl. 3	0	root	0	root	_
+
+1	evam	adv	adv.	4	kriyaviseranam	4	kriyaviseranam	_
+2	sarvezu	nomplm	nom. pl. m.	3	viseranam	4	karwa	Collision
+3	siMhezu	nomplm	nom. pl. m.	4	karwa	4	karwa	_
+4	nirgatezu	pp	pp.	11	purvakalah	11	purvakalah	_
+5	SyAmaH	nomsgm	nom. sg. m.	11	karwa	11	karwa	_
+6	api	conj	conj.	5	sambanxah	5	sambanxah	_
+7	vfkzAt	ablsgm	abl. sg. m.	8	apaxanam	8	apaxanam	_
+8	avatIrya	abs	abs.	11	purvakalah	11	purvakalah	_
+9	sakuSalam	adv	adv.	11	kriyaviseranam	10	kriyaviseranam	_
+10	gfham	nomsgn	nom. sg. n.	11	karma	11	karma	_
+11	pratyAgacCat	impftsg3	impft. [1] ac. sg. 3	0	root	0	root	_
+12	iti	part	part.	11	sambanxah	11	sambanxah	_
+
+1	pARqoH	gsgm	g. sg. m.	2	rartisambanxah	2	rartisambanxah	_
+2	sute	locsgm	loc. sg. m.	6	karwa	3	viseranam	_
+3	Bavati	locsgm	loc. sg. m.	6	axikaranam	0	root	_
+4	saviSezaM	conj	conj.	5	viseranam	6	viseranam	_
+5	BaktiM	accsgf	acc. sg. f.	6	karma	6	karma	_
+6	tanvati	locsgm	loc. sg. m.	12	purvakalah	12	purvakalah	_
+7	sati	locsgm	loc. sg. m.	6	viseranam	6	viseranam	_
+8	taralAH	nomplm	nom. pl. m.	12	viseranam	12	karwa	Collision
+9	matsariRaH	nomplm	nom. pl. m.	12	karwa	12	karwa	_
+10	pare	conj	conj.	12	axikaranam	12	axikaranam	_
+11	svayaM	conj	conj.	12	sambanxah	12	kriyaviseranam	_
+12	vErAyitAraH	nomplm	nom. pl. m.	0	root	0	root	_
+
+1	ante	locsgm	loc. sg. m.	11	axikaranam	11	axikaranam	Collision
+2	raGuH	nomsgm	nom. sg. m.	11	karwa	11	karwa	_
+3	eva	prep	prep.	2	sambanxah	2	sambanxah	_
+4	sarvam	accsgm	acc. sg. m.	5	viseranam	5	viseranam	_
+5	suvarRarASim	accsgm	acc. sg. m.	11	karma	11	karma	_
+6	kOtsena	instsgm	i. sg. m.	7	prawiyogi	7	prawiyogi	_
+7	saha	prep	prep.	2	anuyogi	11	anuyogi	_
+8	tasya	gsgm	g. sg. m.	9	viseranam	9	viseranam	_
+9	guroH	gsgm	g. sg. m.	10	upapaxasambanxah	10	upapaxasambanxah	_
+10	samIpe	locsgm	loc. sg. m.	11	axikaranam	11	axikaranam	_
+11	prezitavAn	pp	pp.	0	root	0	root	_
+12	iti	part	part.	11	sambanxah	11	sambanxah	_
+
+1	kintu	conj	conj.	9	samucciwam	9	samucciwam	_
+2	aDunA	conj	conj.	8	axikaranam	8	axikaranam	Collision
+3	tava	gsg*	g. sg. *.	4	rartisambanxah	4	rartisambanxah	_
+4	gfhe	locsgm	loc. sg. m.	8	axikaranam	8	axikaranam	_
+5	ahaM	nomsg*	nom. sg. *.	8	karwa	8	karwa	_
+6	kadApi	conj	conj.	8	axikaranam	8	axikaranam	_
+7	na	conj	conj.	8	sambanxah	8	sambanxah	_
+8	vatsyAmi	futsg1	fut. ac. sg. 1	9	samucciwam	9	samucciwam	_
+9	ca	conj	conj.	0	root	0	root	_
+
+1	mantriparAmarSena	instsgm	i. sg. m.	4	karanam	4	karanam	_
+2	kuberataH	locsgm	loc. sg. m.	4	apaxanam	4	axikaranam	_
+3	Danam	accsgn	acc. sg. n.	4	karma	4	karma	_
+4	Ahartum	inf	inf.	6	prayojanam	11	prayojanam	_
+5	prAtaH	locsgn	loc. sg. n.	6	axikaranam	6	axikaranam	_
+6	prasTAnAya	datsgn	dat. sg. n.	7	waxarwyam	11	prayojanam	_
+7	rAtrO	locsgf	loc. sg. f.	11	axikaranam	11	axikaranam	Collision
+8	saH	nomsgm	nom. sg. m.	11	karwa	11	karwa	_
+9	raTe	locsgm	loc. sg. m.	11	axikaranam	11	axikaranam	_
+10	eva	prep	prep.	9	sambanxah	9	sambanxah	_
+11	prasuptaH	pp	pp.	0	root	0	root	_
+
+1	jalaOGaH	nomsgm	nom. sg. m.	9	karwa	9	karwa	Collision
+2	AkrAman	nomsgn	nom. sg. n.	9	bavalakranasapwami_samanakalah	9	karwa	_
+3	api	conj	conj.	2	sambanxah	2	sambanxah	_
+4	vimalatayA	instsgf	inst. sg. f.	5	hewuh	7	hewuh	_
+5	yuktAnAM	pppl	pp. . pl. 	6	rartisambanxah	6	rartisambanxah	_
+6	tiraskriyAyE	datsgf	dat. sg. f.	7	upapaxasambanxah	7	upapaxasambanxah	_
+7	alaM	conj	conj.	9	sambanxah	9	sambanxah	_
+8	na	conj	conj.	9	sambanxah	9	sambanxah	_
+9	Bavati	prsg3	pr. ac. sg. 3	0	root	0	root	_
+10	hi	conj	conj.	9	sambanxah	9	sambanxah	_
+
+1	avivekaH	nomsgm	nom. sg. m.	4	karwa	4	karwa	Collision
+2	paramApadAm	gplf	g. pl. f.	3	rartisambanxah	3	rartisambanxah	_
+3	padam	accsgm	acc. sg. m.	4	karma	4	karma	_
+4	vfRute	prmdsg3	pr. [5] md. sg. 3	0	root	0	root	_
+5	hi	part	part.	4	sambanxah	4	sambanxah	_
+6	vimfSyakAriRam	accsgm	acc. sg. m.	4	karmasamanaxikaranam	8	karma	_
+7	guRa	vocsgm	voc. sg. m.	4	samboxyah	8	viseranam	_
+8	lubDAH	nomplf	nom. pl. f.	11	viseranam	11	viseranam	_
+9	svayam	adv	adv.	4	kriyaviseranam	8	kriyaviseranam	_
+10	eva	prep	prep.	9	sambanxah	9	sambanxah	_
+11	sampadaH	nomplf	nom. pl. f.	4	karwqsamanaxikaranam	4	karwa	_
+
+1	tezAm	gpln	g. pl. n.	2	rartisambanxah	2	rartisambanxah	_
+2	pfzWe	accdun	acc. du. n.	3	sambanxah	4	axikaranam	Collision
+3	pfzWe	accdun	acc. du. n.	4	sambanxah	4	axikaranam	_
+4	AgacCan	nomsgm	nom. sg. m.	5	viseranam	6	samucciwam	_
+5	tEH	nompln	nom. pl. n.	7	viseranam	6	samucciwam	_
+6	ca	conj	conj.	13	sambanxah	13	karwa	Collision
+7	SizyEH	nompln	nom. pl. n.	8	prawiyogi	8	prawiyogi	_
+8	saha	prep	prep.	10	anuyogi	10	anuyogi	_
+9	adfSyamAnaH	nomsgm	nom. sg. m.	10	viseranam	10	viseranam	_
+10	AcAryaH	nomsgm	nom. sg. m.	12	karwa	13	karwa	_
+11	idam	accsgn	acc. sg. n.	12	viseranam	12	viseranam	_
+12	sarvam	accsgm	acc. sg. m.	13	karma	13	karma	_
+13	apaSyat	impftsg3	impft. [4] ac. sg. 3	0	root	0	root	_
+
+1	tatra	locsgm	loc. sg. m.	9	axikaranam	9	axikaranam	Collision
+2	ekaH	nomsgm	nom. sg. m.	3	viseranam	3	viseranam	_
+3	vidvAn	nomsgm	nom. sg. m.	9	karwa	9	karwa	_
+4	mahAtmaveSaDAriRam	accsgm	acc. sg. m.	9	karma	9	karma	Collision
+5	ISvarasya	gsgm	g. sg. m.	6	rartisambanxah	6	viseranam	_
+6	astitvasya	gsgn	g. sg. n.	7	rartisambanxah	7	rartisambanxah	_
+7	sambanDe	locsgm	loc. sg. m.	9	axikaranam	9	axikaranam	_
+8	praSnam	accsgm	acc. sg. m.	9	karma	9	karma	_
+9	apfcCat	impftsg3	impft. [6] ac. sg. 3	0	root	0	root	_
+
+1	asya	gsgm	g. sg. m.	2	rartisambanxah	2	rartisambanxah	_
+2	prAyaScittam	accsgn	acc. sg. n.	3	karma	3	karma	_
+3	kartum	inf	inf.	9	prayojanam	9	prayojanam	_
+4	mayA	instsg*	i. sg. *	9	karwa	9	karwa	_
+5	tvaritam	capp	ca. pp.	9	kriyaviseranam	9	karma	Collision
+6	eva	prep	prep.	5	sambanxah	5	sambanxah	_
+7	tasmE	datsgn	dat. sg. n.	9	sampraxanam	9	sampraxanam	_
+8	cOryarahasyam	accsgm	acc. sg. m.	9	karma	9	karma	_
+9	udGAwanIyam	capfp	ca. pfp. [2]	0	root	0	root	_
+
+1	tasya	gsgn	g. sg. n.	2	rartisambanxah	2	rartisambanxah	_
+2	BojanavyavasTAm	accsgf	acc. sg. f.	4	karma	4	karma	_
+3	ca	conj	conj.	2	sambanxah	4	sambanxah	_
+4	kArayitum	cainf	ca. inf.	9	prayojanam	9	prayojanam	_
+5	upari	locsgm	loc. sg. m.	6	viseranam	9	axikaranam	Collision
+6	svAvAse	locsgm	loc. sg. m.	9	axikaranam	9	axikaranam	_
+7	patnyAH	ablsgf	abl. sg. f.	8	upapaxasambanxah	8	upapaxasambanxah	_
+8	samIpe	locsgm	loc. sg. m.	9	axikaranam	9	axikaranam	_
+9	gataH	pp	pp.	0	root	0	root	_
+
+1	tasya	gsgm	g. sg. m.	2	rartisambanxah	2	rartisambanxah	_
+2	agre	locsgm	loc. sg. m.	6	axikaranam	6	axikaranam	_
+3	AtmAnam	accsgm	acc. sg. m.	6	karma	6	karma	_
+4	hInam	ppsg	pp. . sg. 	6	karmasamanaxikaranam	6	karmasamanaxikaranam	_
+5	eva	conj	conj.	4	sambanxah	4	sambanxah	_
+6	matvA	conj	conj.	11	purvakalah	11	purvakalah	_
+7	tam	accsgm	acc. sg. m.	11	karma	11	karma	Collision
+8	punaH	conj	conj.	9	sambanxah	11	kriyaviseranam	_
+9	punaH	conj	conj.	11	kriyaviseranam	11	kriyaviseranam	_
+10	kzamAm	accsgf	acc. sg. f.	11	karma	11	karma	_
+11	yAcitavantaH	pppl	pp. . pl. 	0	root	0	root	_
+
+1	iha	conj	conj.	12	axikaranam	12	axikaranam	Collision
+2	vaprAH	nomplm	nom. pl. m.	12	karwa	12	karwa	_
+3	sAyaM	conj	conj.	12	axikaranam	8	axikaranam	_
+4	SaSANkakiraRaAhatacandrakAntanisyandinIranikareRa	instsgm	inst. sg. m.	12	karanam	8	viseranam	_
+5	kftABizekAH	nomplm	nom. pl. m.	12	viseranam	6	viseranam	_
+6	ahni	locsgn	loc. sg. n.	12	axikaranam	12	axikaranam	_
+7	arkopalaullasitavahniBiH	instplm	inst. pl. m.	8	karwa	8	karanam	_
+8	taptAH	nomplm	nom. pl. m.	2	viseranam	10	viseranam	_
+9	tIvraM	accsgm	acc. sg. m.	10	viseranam	10	viseranam	_
+10	mahAvratam	accsgm	acc. sg. m.	11	prawiyogi	11	prawiyogi	_
+11	iva	conj	conj.	12	anuyogi	12	anuyogi	_
+12	caranti	prpl3	pr. ac. pl. 3	0	root	0	root	_
+
+1	daridrIBUtaH	nomsgm	nom. sg. m.	2	viseranam	4	viseranam	_
+2	saH	nomsgm	nom. sg. m.	3	viseranam	4	viseranam	_
+3	sampannaH	nomsgm	nom. sg. m.	4	viseranam	4	viseranam	_
+4	janaH	accsgn	acc. sg. n.	11	karwa	11	karwa	_
+5	tAm	accsgf	acc. sg. f.	6	viseranam	6	viseranam	_
+6	rowIm	accsgf	acc. sg. f.	8	karma	11	karma	Collision
+7	kukkurataH	datsgm	dat. sg. m.	8	apaxanam	8	apaxanam	_
+8	AcCettum	inf	inf.	11	prayojanam	11	prayojanam	_
+9	tam	accsgm	acc. sg. m.	10	viseranam	10	viseranam	_
+10	kukkuram	accsgm	acc. sg. m.	11	karma	11	karma	_
+11	anupalAyitaH	pp	pp.	0	root	0	root	_
+
+1	asO	nomsgm	nom. sg. m.	14	karwa	14	karwa	_
+2	nIlaupalasyUtavicitraDAtum	accsgm	acc. sg. m.	13	viseranam	5	viseranam	_
+3	ratnaBABiH	instplf	inst. pl. f.	4	upapaxasambanxah	4	prawiyogi	_
+4	saha	conj	conj.	6	sambanxah	5	anuyogi	_
+5	BUmiM	accsgf	acc. sg. f.	6	karma	6	karma	_
+6	BitvA	conj	conj.	14	purvakalah	7	purvakalah	_
+7	utTitam	accsgm	acc. sg. m.	9	viseranam	12	viseranam	_
+8	uragARAM	gplm	g. pl. m.	9	rartisambanxah	9	rartisambanxah	_
+9	niHSvAsaDUmam	accsgm	acc. sg. m.	10	prawiyogi	10	prawiyogi	_
+10	iva	conj	conj.	13	anuyogi	12	anuyogi	_
+11	sTitaM	accsgm	acc. sg. m.	13	viseranam	12	viseranam	_
+12	rEvatakaM	accsgm	acc. sg. m.	13	viseranam	14	karma	Collision
+13	giriM	accsgm	acc. sg. m.	14	karma	14	karma	_
+14	dadarSa	pftsg3	pft. ac. sg. 3	0	root	0	root	_
+
+1	rAgAnDIkftanayanena	instsgm	inst. sg. m.	2	viseranam	5	viseranam	_
+2	priyeRa	instsgm	inst. sg. m.	5	karwa	5	karwa	_
+3	nAmaDeyavyatyAsAt	ablsgm	abl. sg. m.	4	hewuh	4	hewuh	_
+4	aBimuKam	conj	conj.	5	axikaranam	7	axikaranam	Collision
+5	IritaH	ppsg	pp. . sg. 	11	viseranam	9	viseranam	_
+6	vapuzi	locsgn	loc. sg. n.	7	axikaranam	7	axikaranam	_
+7	patan	nomsgn	nom. sg. n.	11	viseranam	14	bavalakranasapwami_samanakalah	_
+8	nisargamandaH	nomsgm	nom. sg. m.	11	viseranam	9	viseranam	_
+9	hfdayam	accsgn	acc. sg. n.	10	karma	10	karma	_
+10	BindAnaH	nomsgn	nom. sg. n.	11	viseranam	14	bavalakranasapwami_samanakalah	_
+11	udavajraH	nomsgm	nom. sg. m.	14	karma	14	karma	_
+12	mAninyA	instsgf	inst. sg. f.	14	karwa	14	karwa	_
+13	na	conj	conj.	14	sambanxah	14	sambanxah	_
+14	asAhi	impftmdsg3	impft. md. sg. 3	0	root	0	root	_
+
+1	DanopArjanArTam	datsgm	dat. sg. m.	3	prayojanam	3	prayojanam	_
+2	deSAntaram	accsgm	acc. sg. m.	3	karma	3	sambanxah	_
+3	gacCatoH	gdun	g. du. n.	5	viseranam	5	viseranam	_
+4	dvayoH	gdun	g. du. n.	5	viseranam	5	viseranam	_
+5	mitrayoH	gdun	g. du. n.	6	rartisambanxah	6	rartisambanxah	_
+6	haste	locsgm	loc. sg. m.	15	axikaranam	10	viseranam	_
+7	nagarasamIpe	locsgm	loc. sg. m.	9	viseranam	11	axikaranam	Collision
+8	eva	prep	prep.	9	sambanxah	7	sambanxah	_
+9	vane	locsgn	loc. sg. n.	15	axikaranam	11	axikaranam	_
+10	BUmO	locsgf	loc. sg. f.	11	axikaranam	11	axikaranam	_
+11	surakzitaH	abs	abs.	15	purvakalah	14	viseranam	_
+12	ekaH	nomsgm	nom. sg. m.	13	viseranam	14	viseranam	_
+13	bahumUlyaratnapUrRaH	nomsgm	nom. sg. m.	14	viseranam	14	viseranam	_
+14	kalaSaH	nomsgm	nom. sg. m.	15	karwa	15	karwa	_
+15	lagnaH	pp	pp.	0	root	0	root	_
+
+1	viraktaH	nomsgm	nom. sg. m.	2	viseranam	2	viseranam	_
+2	rAjA	nomsgm	nom. sg. m.	15	karwa	15	karwa	_
+3	svIyam	accsgm	acc. sg. m.	4	viseranam	4	viseranam	_
+4	rAjyarDam	accsgm	acc. sg. m.	10	karma	7	karma	Collision
+5	tAByAm	datdum	dat. du. m.	6	viseranam	7	prayojanam	_
+6	dampatiByAm	datdum	dat. du. m.	7	sampraxanam	7	karma	_
+7	dattvA	abs	abs.	15	purvakalah	15	purvakalah	_
+8	avaSizwam	accsgm	acc. sg. m.	11	karma	9	samucciwam	_
+9	ca	conj	conj.	11	sambanxah	15	purvakalah	_
+10	AtmajAya	datsgn	dat. sg. n.	11	sampraxanam	13	sampraxanam	_
+11	samarpya	caabs	ca. abs.	15	purvakalah	13	purvakalah	_
+12	tapaH	accsgn	acc. sg. n.	13	karma	13	karma	_
+13	taptum	inf	inf.	15	prayojanam	15	prayojanam	_
+14	vanam	accsgn	acc. sg. n.	15	karma	15	karma	_
+15	prasTitaH	pp	pp.	0	root	0	root	_
+16	iti	part	part.	15	sambanxah	15	sambanxah	_
+
+1	tadA	locsgn	loc. sg. n.	17	axikaranam	8	axikaranam	Collision
+2	saH	nomsgm	nom. sg. m.	17	karwa	8	karwa	Collision
+3	kaTAvAcakamuKAt	ablsgn	abl. sg. n.	17	apaxanam	8	apaxanam	_
+4	devatA	nomplf	nom. pl. f.	8	karwa	8	karwa	_
+5	BUmO	locsgf	loc. sg. f.	8	axikaranam	8	axikaranam	_
+6	na	part	part.	8	sambanxah	8	sambanxah	_
+7	pAdO	accdum	acc. du. m.	8	karma	8	karma	_
+8	rakzati	prsg3	pr. [1] ac. sg. 3	10	samucciwam	18	samucciwam	_
+9	na	part	part.	12	sambanxah	8	sambanxah	_
+10	ca	conj	conj.	18	samucciwam	0	root	_
+11	svanayane	accdun	acc. du. n.	12	karma	12	axikaranam	_
+12	nimIlati	prsg3	pr. [1] ac. sg. 3	10	samucciwam	18	samucciwam	_
+13	eva	prep	prep.	12	sambanxah	12	sambanxah	_
+14	evam	adv	adv.	15	kriyaviseranam	17	kriyaviseranam	_
+15	SfRvan	nomsgm	nom. sg. m.	17	karwqsamanaxikaranam	17	purvakalah	_
+16	agre	locsgn	loc. sg. n.	17	axikaranam	17	axikaranam	_
+17	niHsftaH	nomsgm	nom. sg. m.	18	samucciwam	18	samucciwam	_
+18	ca	conj	conj.	0	root	0	root	_
+
+1	alpaprayojanakftaurutaraprayAsEH	instplm	inst. pl. m.	3	viseranam	3	viseranam	_
+2	udgUrRalozwalaguqEH	instplm	inst. pl. m.	3	viseranam	3	viseranam	_
+3	pumBiH	instplm	inst. pl. m.	5	karwa	5	karwa	_
+4	paritaH	conj	conj.	5	sambanxah	5	sambanxah	_
+5	anuvidDam	accsgm	acc. sg. m.	11	upapaxasambanxah	8	viseranam	_
+6	anokahajAlamaDyAt	ablsgm	abl. sg. m.	9	viseranam	7	hewuh	_
+7	udyatam	accsgm	acc. sg. m.	9	viseranam	9	viseranam	_
+8	uddrutam	accsgm	acc. sg. m.	9	viseranam	9	viseranam	_
+9	SaSam	accsgm	acc. sg. m.	11	karma	14	karma	Collision
+10	anyaH	nomsgm	nom. sg. m.	11	karwa	11	viseranam	_
+11	avan	nomsgm	nom. sg. m.	14	bavalakranasapwami_samanakalah	14	bavalakranasapwami_samanakalah	_
+12	analpaM	accsgm	acc. sg. m.	13	viseranam	13	viseranam	_
+13	guRam	accsgm	acc. sg. m.	14	karma	14	karma	_
+14	avApa	pftsg3	pft. ac. sg. 3	0	root	0	root	_
+
+1	anilaH	nomsgm	nom. sg. m.	5	karwa	5	karwa	Collision
+2	anyadA	conj	conj.	5	axikaranam	5	sambanxah	_
+3	viyoginaH	accplm	acc. pl. m.	5	karma	5	karma	_
+4	varatanoH	nomsgf	nom. sg. f.	5	karma	5	karwa	_
+5	smarayati	prsg3	pr. ac. sg. 3	18	samucciwam	18	samucciwam	_
+6	yat	nomsgn	nom. sg. n.	8	viseranam	9	sambanxah	_
+7	idaM	nomsgn	nom. sg. n.	8	viseranam	11	karma	_
+8	mahat	nomsgn	nom. sg. n.	9	viseranam	9	viseranam	_
+9	ayuktam	ppsg	pp. . sg. 	11	karwa	11	karwa	_
+10	eva	conj	conj.	9	sambanxah	9	sambanxah	_
+11	asti	prsg3	pr. ac. sg. 3	18	samucciwam	18	samucciwam	_
+12	aho	conj	conj.	17	sambanxah	17	sambanxah	_
+13	satuhinaH	nomsgm	nom. sg. m.	17	karwa	16	viseranam	_
+14	tu	conj	conj.	12	sambanxah	13	sambanxah	_
+15	smftayOvanasozmapayoDarAn	accplm	acc. pl. m.	16	viseranam	16	viseranam	_
+16	viyoginaH	accplm	acc. pl. m.	17	karma	17	karma	_
+17	hinastu	impsg3	imp. ac. sg. 3	18	samucciwam	18	samucciwam	_
+18	ca	conj	conj.	0	root	0	root	_
+
+1	navAn	accplm	acc. pl. m.	3	viseranam	3	viseranam	_
+2	bfhataH	accplm	acc. pl. m.	3	viseranam	3	viseranam	_
+3	payoDarAn	accplm	acc. pl. m.	6	karma	5	karma	_
+4	aDoDaH	conj	conj.	5	sambanxah	5	kriyaviseranam	_
+5	sTitam	nomsgn	nom. sg. n.	17	samucciwam	6	viseranam	_
+6	samUQakarpUraparAgapARquraM	accsgm	acc. sg. m.	13	viseranam	12	viseranam	_
+7	kzaRaM	accsgm	acc. sg. m.	11	viseranam	12	viseranam	_
+8	kzaRotkziptagajendrakfttinA	instsgm	inst. sg. m.	10	viseranam	10	viseranam	_
+9	BUtisitena	instsgm	inst. sg. m.	10	viseranam	10	viseranam	_
+10	SamBunA	instsgm	inst. sg. m.	11	hewuh	16	karwa	Collision
+11	sPuwopamam	accsgm	acc. sg. m.	13	viseranam	12	viseranam	_
+12	amum	accsgm	acc. sg. m.	16	karma	16	karma	_
+13	nAradaH	nomsgm	nom. sg. m.	16	karmasamanaxikaranam	16	karmasamanaxikaranam	_
+14	iti	conj	conj.	13	sambanxah	13	sambanxah	_
+15	saH	nomsgm	nom. sg. m.	16	karwa	16	karwa	_
+16	aboDi	impftmdsg3	impft. md. sg. 3	17	samucciwam	17	samucciwam	_
+17	ca	conj	conj.	0	root	0	root	_
+
+1	pARqavaH	nomsgm	nom. sg. m.	2	karwa	5	karwa	Collision
+2	yajatAm	impmdsg3	imp. md. sg. 3	14	samucciwam	14	samucciwam	_
+3	indraH	nomsgm	nom. sg. m.	5	karwa	5	karwa	_
+4	svargam	accsgm	acc. sg. m.	5	karma	5	karma	_
+5	avatu	impsg3	imp. ac. sg. 3	14	samucciwam	14	samucciwam	_
+6	inaH	nomsgm	nom. sg. m.	7	karwa	7	karwa	_
+7	tapatu	impsg3	imp. ac. sg. 3	14	samucciwam	14	samucciwam	_
+8	vayaM	nompln	nom. pl. n.	10	karwa	13	karma	Collision
+9	dvizataH	accplm	acc. pl. m.	10	karma	13	karma	_
+10	hanAma	imppl1	imp. ac. pl. 1	14	samucciwam	13	karwa	_
+11	sarvaH	nomsgm	nom. sg. m.	13	karwa	13	karwa	_
+12	svArTaM	accsgm	acc. sg. m.	13	karma	13	karma	_
+13	samIhate	prmdsg3	pr. md. sg. 3	14	samucciwam	14	samucciwam	_
+14	ca	conj	conj.	0	root	0	root	_
+
+1	yAvat	locsgn	loc. sg. n.	8	axikaranam	8	axikaranam	_
+2	saH	nomsgm	nom. sg. m.	8	karwa	8	karwa	Collision
+3	pUrRarUpeRa	instsgn	i. sg. n.	8	kriyaviseranam	8	karanam	_
+4	svasTaH	nomsgm	nom. sg. m.	6	samucciwam	6	samucciwam	_
+5	sabalaH	nomsgm	nom. sg. m.	6	samucciwam	6	samucciwam	_
+6	ca	conj	conj.	8	karwqsamanaxikaranam	8	karwa	_
+7	na	part	part.	8	sambanxah	8	sambanxah	_
+8	aBavat	impftsg3	impft. [1] ac. sg. 3	15	samucciwam	15	samucciwam	_
+9	tAvat	locsgn	loc. sg. n.	13	axikaranam	13	axikaranam	_
+10	tam	accsgm	acc. sg. m.	13	karma	13	karma	_
+11	saH	nomsgm	nom. sg. m.	13	karwa	13	karwa	_
+12	samyak	adv	adv.	13	kriyaviseranam	13	kriyaviseranam	_
+13	upacaritavAn	pp	pp.	15	samucciwam	15	samucciwam	_
+14	api	conj	conj.	13	sambanxah	13	sambanxah	_
+15	ca	conj	conj.	0	root	0	root	_
+
+1	mama	gsgm	g. sg. m.	4	rartisambanxah	3	rartisambanxah	_
+2	ekaH	nomsgm	nom. sg. m.	3	viseranam	3	viseranam	_
+3	dUrasTaH	nomsgm	nom. sg. m.	4	viseranam	4	viseranam	_
+4	sambanDI	nomdum	nom. du. m.	8	karwa	8	karwa	_
+5	kAryavaSAt	ablsgm	abl. sg. m.	8	hewuh	8	apaxanam	_
+6	yadA	locsgm	loc. sg. m.	9	axikaranam	14	axikaranam	Collision
+7	jayapure	locsgn	loc. sg. n.	8	axikaranam	8	axikaranam	_
+8	AyAtaH	accplm	acc. pl. m.	6	prawiyogi	0	root	_
+9	tadA	locsgm	loc. sg. m.	14	axikaranam	14	axikaranam	_
+10	mAm	accsg*	acc. sg. *	12	karma	12	karma	_
+11	api	conj	conj.	10	sambanxah	10	sambanxah	_
+12	drazwum	inf	inf.	14	prayojanam	14	prayojanam	_
+13	gfhe	locsgn	loc. sg. n.	14	axikaranam	14	axikaranam	_
+14	upasTitaH	pp	pp.	0	root	0	root	_
+
+1	maheBakumBaSrIBAjA	instsgn	inst. sg. n.	2	viseranam	6	karwa	_
+2	kucayugalena	instsgn	inst. sg. n.	6	karanam	6	karanam	_
+3	payasi	locsgn	loc. sg. n.	6	karwa	6	axikaranam	_
+4	muhuH	conj	conj.	6	viseranam	6	viseranam	_
+5	saNkzoBaM	accsgm	acc. sg. m.	6	karma	6	karma	_
+6	nIyamAne	nomsgn	nom. sg. n.	10	purvakalah	10	bavalakranasapwami_samanakalah	_
+7	raTANganAmnoH	gdun	g. du. n.	8	rartisambanxah	8	rartisambanxah	_
+8	yugaM	nomsgn	nom. sg. n.	10	karwa	9	rartisambanxah	_
+9	viSlezam	accsgn	acc. sg. n.	10	karma	10	karma	_
+10	agamat	impftsg3	impft. ac. sg. 3	18	samucciwam	18	samucciwam	_
+11	taTAhi	conj	conj.	17	sambanxah	10	sambanxah	_
+12	udvfttaH	ppsg	pp. . sg. 	17	karwa	17	karwa	Collision
+13	kaH	nomsgm	nom. sg. m.	14	prawiyogi	14	prawiyogi	_
+14	iva	conj	conj.	12	anuyogi	16	anuyogi	_
+15	parezAM	gplm	g. pl. m.	16	rartisambanxah	16	rartisambanxah	_
+16	suKAvahaH	nomsgm	nom. sg. m.	17	karwqsamanaxikaranam	17	karwa	_
+17	Bavati	prsg3	pr. ac. sg. 3	18	samucciwam	18	samucciwam	_
+18	ca	conj	conj.	0	root	0	root	_
+
+1	yasmin	locsgn	loc. sg. n.	2	viseranam	2	viseranam	_
+2	durdine	locsgn	loc. sg. n.	5	axikaranam	5	axikaranam	Collision
+3	mayA	nomplm	nom. pl. m.	5	karwa	5	karwa	_
+4	mAtfBAvaH	nomsgm	nom. sg. m.	5	karma	5	karma	_
+5	dUzitaH	capp	ca. pp.	16	samucciwam	16	samucciwam	_
+6	tasmin	locsgn	loc. sg. n.	7	viseranam	7	viseranam	_
+7	dine	locsgn	loc. sg. n.	15	axikaranam	5	axikaranam	_
+8	na	part	part.	15	sambanxah	13	sambanxah	_
+9	tvam	nomsg*	nom. sg. *	15	karwa	16	samucciwam	_
+10	ekam	accsgm	acc. sg. m.	12	viseranam	12	viseranam	_
+11	api	conj	conj.	12	sambanxah	10	sambanxah	_
+12	vacanam	accsgm	acc. sg. m.	13	karma	13	karma	_
+13	vaktum	inf	inf.	15	sambanxah	15	prayojanam	_
+14	asamarTaH	nomsgm	nom. sg. m.	15	karwqsamanaxikaranam	15	karwqsamanaxikaranam	_
+15	AsIH	aorsg2	aor. [5] ac. sg. 2	16	samucciwam	16	samucciwam	_
+16	ca	conj	conj.	0	root	0	root	_
+
+1	yat	accsgn	acc. sg. n.	3	viseranam	2	viseranam	_
+2	rajaH	accsgn	acc. sg. n.	3	viseranam	5	karma	Collision
+3	pAdAhataM	accsgn	acc. sg. n.	5	karma	5	karma	_
+4	sat	accsgn	acc. sg. n.	3	viseranam	5	sambanxah	_
+5	utTAya	abs	abs.	6	purvakalah	8	purvakalah	_
+6	AhantuH	gsgm	g. sg. m.	7	rartisambanxah	7	rartisambanxah	_
+7	mUrDAnam	accsgm	acc. sg. m.	8	karma	8	karma	_
+8	aDirohati	prsg3	pr. ac. sg. 3	18	samucciwam	18	samucciwam	_
+9	tad	nomsgn	nom. sg. n.	10	viseranam	10	viseranam	_
+10	rajaH	nomsgn	nom. sg. n.	17	karwa	17	karwa	_
+11	apamAne	locsgm	loc. sg. m.	17	axikaranam	17	axikaranam	_
+12	api	conj	conj.	11	sambanxah	15	sambanxah	_
+13	svasTAt	ablsgm	abl. sg. m.	14	viseranam	15	hewuh	_
+14	dehinaH	ablsgm	abl. sg. m.	17	apaxanam	15	hewuh	_
+15	varam	conj	conj.	17	sambanxah	17	viseranam	_
+16	eva	conj	conj.	15	sambanxah	15	sambanxah	_
+17	Bavati	prsg3	pr. ac. sg. 3	18	samucciwam	18	samucciwam	_
+18	ca	conj	conj.	0	root	0	root	_
+
+1	gamBIravedini	locsgm	loc. sg. m.	2	viseranam	2	viseranam	_
+2	karIndre	locsgm	loc. sg. m.	8	karwa	8	viseranam	_
+3	saMrabDahastipakanizWuracodanABiH	instplf	inst. pl. f.	8	karanam	5	viseranam	_
+4	api	conj	conj.	3	sambanxah	3	sambanxah	_
+5	mukulitAkzaM	nomsgn	nom. sg. n.	8	viseranam	7	viseranam	_
+6	puraH	conj	conj.	7	viseranam	12	axikaranam	Collision
+7	kavalam	accsgm	acc. sg. m.	8	karma	12	karma	_
+8	anAdadAne	locsgm	loc. sg. m.	18	purvakalah	12	axikaranam	_
+9	mandaH	nomsgm	nom. sg. m.	13	karwa	13	viseranam	_
+10	api	conj	conj.	9	sambanxah	9	sambanxah	_
+11	mahAn	nomsgm	nom. sg. m.	12	karwa	9	viseranam	_
+12	avagfhya	abs	abs.	18	purvakalah	18	purvakalah	_
+13	sADyaH	nomsgm	nom. sg. m.	18	karma	15	viseranam	_
+14	na	conj	conj.	13	sambanxah	15	sambanxah	_
+15	nAma	conj	conj.	16	prawiyogi	16	prawiyogi	_
+16	iti	conj	conj.	17	anuyogi	17	anuyogi	_
+17	janEH	instplm	inst. pl. m.	18	karwa	18	karwa	_
+18	jajYe	pftmdsg3	pft. md. sg. 3	0	root	0	root	_
+
+1	mitra	vocsgm	voc. sg. m.	7	samboxyah	14	samboxyah	_
+2	aham	nomsg*	nom. sg. *	7	karwa	14	karwa	_
+3	atra	locsgm	loc. sg. m.	7	axikaranam	7	axikaranam	Collision
+4	pratidinam	abs	abs.	7	purvakalah	7	axikaranam	_
+5	maDurARi	accpln	acc. pl. n.	6	viseranam	6	viseranam	_
+6	PalAni	accpln	acc. pl. n.	7	karma	7	karma	_
+7	KAdAmi	prsg1	pr. [1] ac. sg. 1	8	samucciwam	8	prawiyogi	_
+8	kintu	conj	conj.	0	root	14	anuyogi	_
+9	kadApi	locsgn	loc. sg. n.	14	axikaranam	14	axikaranam	_
+10	tvAm	accsg*	acc. sg. *	14	sambanxah	14	karma	Collision
+11	BojanAya	datsgn	dat. sg. n.	14	waxarwyam	14	prayojanam	_
+12	svagfham	accsgn	acc. sg. n.	14	sambanxah	14	karma	_
+13	na	part	part.	14	sambanxah	14	sambanxah	_
+14	nayAmi	prsg1	pr. [1] ac. sg. 1	8	samucciwam	0	root	_
+
+1	janaH	nomsgm	nom. sg. m.	8	karwa	8	karwa	_
+2	utTitO	accdum	acc. du. m.	4	viseranam	4	viseranam	_
+3	etO	accdum	acc. du. m.	4	viseranam	4	viseranam	_
+4	tuzAraaYjanaparvatO	nomdum	nom. du. m.	5	prawiyogi	5	prawiyogi	_
+5	iva	conj	conj.	6	anuyogi	8	anuyogi	_
+6	yAvat	conj	conj.	8	sambanxah	8	sambanxah	_
+7	na	conj	conj.	8	sambanxah	8	sambanxah	_
+8	udapaSyat	impftsg3	impft . ac. sg. 3	16	samucciwam	16	samucciwam	_
+9	tAvat	conj	conj.	15	sambanxah	8	sambanxah	_
+10	cirantanaH	nomsgm	nom. sg. m.	11	viseranam	11	viseranam	_
+11	muniH	nomsgm	nom. sg. m.	16	karwa	15	karwa	_
+12	svahastadatte	locsgn	loc. sg. n.	13	viseranam	15	axikaranam	Collision
+13	Asane	locsgn	loc. sg. n.	15	axikaranam	15	axikaranam	_
+14	munim	accsgm	acc. sg. m.	15	karma	15	karma	_
+15	aBinyavIviSat	impftsg3	impft. ac. sg. 3	16	samucciwam	16	samucciwam	_
+16	ca	conj	conj.	0	root	0	root	_
+
+1	tena	instsgm	inst. sg. m.	2	karwa	2	karwa	_
+2	kftaH	nomsgm	nom. sg. m.	5	viseranam	5	viseranam	_
+3	alpaH	nomsgm	nom. sg. m.	5	viseranam	5	viseranam	_
+4	api	conj	conj.	3	sambanxah	3	sambanxah	_
+5	upajApaH	nomsgn	nom. sg. n.	14	karma	14	karma	Collision
+6	tvayi	locsgn	loc. sg. n.	14	axikaranam	14	axikaranam	_
+7	AkopavataH	accplm	acc. pl. m.	10	viseranam	10	viseranam	_
+8	tAn	accplm	acc. pl. m.	7	viseranam	10	viseranam	_
+9	anilaH	nomsgm	nom. sg. m.	14	karwa	14	karwa	_
+10	sAgnIn	accplm	acc. pl. m.	14	karma	14	karma	_
+11	eDAn	accplm	acc. pl. m.	12	prawiyogi	12	prawiyogi	_
+12	iva	conj	conj.	10	anuyogi	10	anuyogi	_
+13	ASu	conj	conj.	14	viseranam	14	kriyaviseranam	_
+14	dIpayitA	perfutsg3	per.  fut. ac. sg. 3	0	root	0	root	_
+
+1	yUnA	instsgm	inst. sg. m.	7	karwa	5	karwa	Collision
+2	aBinavoQavaDUH	nomsgf	nom. sg. f.	7	karma	5	karwa	_
+3	balAt	conj	conj.	5	viseranam	5	apaxanam	_
+4	muKakamalakam	accsgn	acc. sg. n.	5	karma	5	karma	_
+5	unnamayya	conj	conj.	7	purvakalah	7	purvakalah	_
+6	yat	nomsgn	nom. sg. n.	7	sambanxah	7	viseranam	_
+7	acumbi	impftmdsg3	impft. md. sg. 3	15	samucciwam	15	samucciwam	_
+8	tat	accsgn	acc. sg. n.	13	sambanxah	13	karma	_
+9	vidagDasaKyA	instsgf	inst. sg. f.	13	karwa	10	viseranam	_
+10	bAlapallavAgragrahaparayA	instsgf	inst. sg. f.	9	viseranam	13	karwa	_
+11	api	conj	conj.	10	sambanxah	10	sambanxah	_
+12	na	conj	conj.	13	sambanxah	13	sambanxah	_
+13	vivide	pftmdsg3	pft. md. sg. 3	15	samucciwam	15	samucciwam	_
+14	kila	conj	conj.	13	sambanxah	13	sambanxah	_
+15	ca	conj	conj.	0	root	0	root	_
+
+1	navaambudaSyAmatanuH	nomsgm	nom. sg. m.	2	viseranam	2	viseranam	_
+2	saH	nomsgm	nom. sg. m.	7	karwa	7	karwa	_
+3	muneH	gsgm	g. sg. m.	4	rartisambanxah	4	rartisambanxah	_
+4	anujYayA	instsgf	inst. sg. f.	7	hewuh	7	karanam	_
+5	kAYcane	locsgn	loc. sg. n.	7	axikaranam	7	axikaranam	Collision
+6	yatra	conj	conj.	5	viseranam	7	axikaranam	_
+7	nyavikzata	impftsg3	impft. ac. sg. 3	15	samucciwam	15	samucciwam	_
+8	tat	nomsgn	nom. sg. n.	9	viseranam	9	viseranam	_
+9	AsanaM	nomsgn	nom. sg. n.	14	karwa	14	karma	Collision
+10	tadA	conj	conj.	14	axikaranam	14	axikaranam	_
+11	jambUjanitaSriyaH	gsgf	g. sg. f.	12	viseranam	12	viseranam	_
+12	sumeruSrfNgasya	gsgn	g. sg. n.	13	rartisambanxah	13	rartisambanxah	_
+13	SriyaM	accsgf	acc. sg. f.	14	karma	14	karma	_
+14	jigAya	pftsg3	pft. ac. sg. 3	15	samucciwam	15	samucciwam	_
+15	ca	conj	conj.	0	root	0	root	_
+
+1	tatra	locsgn	loc. sg. n	9	axikaranam	6	axikaranam	_
+2	te	nomdun	nom. du. n.	9	karwa	9	karwa	_
+3	tasya	gsgn	g. sg. n.	4	rartisambanxah	4	rartisambanxah	_
+4	devyE	datsgf	dat. sg. f.	6	sampraxanam	6	sampraxanam	_
+5	balim	accsgm	acc. sg. m.	6	karma	6	karma	_
+6	dAtum	inf	inf.	7	prayojanam	9	prayojanam	_
+7	udyatAH	nomplf	nom. pl. f.	9	karwqsamanaxikaranam	9	karwqsamanaxikaranam	_
+8	eva	prep	prep.	7	sambanxah	7	sambanxah	_
+9	Asan	impftpl3	impft. [2] ac. pl. 3	10	prawiyogi	10	prawiyogi	_
+10	yat	accsgn	acc. sg. n.	11	anuyogi	16	anuyogi	_
+11	tezu	locpln	loc. pl. n.	12	sambanxah	16	axikaranam	Collision
+12	ekajanasya	gsgm	g. sg. m.	13	rartisambanxah	13	rartisambanxah	_
+13	dfzwiH	nomsgf	nom. sg. f.	16	karwa	16	karwa	_
+14	rAjYaH	gsgm	g. sg. m.	15	rartisambanxah	15	rartisambanxah	_
+15	CinnANgulihaste	locsgm	loc. sg. m.	16	axikaranam	16	axikaranam	_
+16	nyapatat	impftsg3	impft. [1] ac. sg. 3	0	root	0	root	_
+
+1	jigIzuRA	instsgm	inst. sg. m.	2	viseranam	8	karwa	Collision
+2	tena	instsgm	inst. sg. m.	8	karwa	8	karwa	_
+3	balAvalepAt	ablsgm	abl. sg. m.	8	apaxanam	4	hewuh	_
+4	aDunA	conj	conj.	8	sambanxah	8	axikaranam	_
+5	api	conj	conj.	6	sambanxah	4	sambanxah	_
+6	pUrvavat	conj	conj.	8	viseranam	8	viseranam	_
+7	jagat	nomsgn	nom. sg. n.	8	karma	8	karma	_
+8	prabADyate	prmdsg3	pr. md. sg. 3	18	samucciwam	18	samucciwam	_
+9	suniScalA	nomsgf	nom. sg. f.	10	viseranam	12	viseranam	_
+10	prakftiH	nomsgf	nom. sg. f.	17	karwa	17	karwa	_
+11	satI	nomsgf	nom. sg. f.	12	viseranam	12	viseranam	_
+12	yozit	nomsgf	nom. sg. f.	13	prawiyogi	13	prawiyogi	_
+13	iva	conj	conj.	10	anuyogi	10	anuyogi	_
+14	BavAntarezu	locpln	loc. pl. n.	17	axikaranam	16	viseranam	_
+15	api	conj	conj.	14	sambanxah	14	sambanxah	_
+16	pumAMsAm	accsgm	acc. sg. m.	17	karma	17	karma	_
+17	aByeti	prsg3	pr. ac. sg. 3	18	samucciwam	18	samucciwam	_
+18	ca	conj	conj.	0	root	0	root	_
+
+1	anyA	nomsgf	nom. sg. f.	17	karwa	17	karwa	Collision
+2	vijanam	nomsgn	nom. sg. n.	3	prawiyogi	3	prawiyogi	_
+3	iti	conj	conj.	4	anuyogi	4	anuyogi	_
+4	amuM	accsgm	acc. sg. m.	7	karma	7	karma	_
+5	kzaRam	conj	conj.	7	viseranam	7	viseranam	_
+6	balAt	conj	conj.	7	viseranam	7	apaxanam	_
+7	gfhItvA	conj	conj.	13	purvakalah	17	purvakalah	_
+8	aTa	conj	conj.	11	sambanxah	11	sambanxah	_
+9	antike	conj	conj.	11	axikaranam	11	viseranam	_
+10	vipakzaM	accsgm	acc. sg. m.	11	karma	11	karma	_
+11	vIkzya	conj	conj.	13	purvakalah	17	purvakalah	_
+12	laGutvaBIteH	ablsgf	abl. sg. f.	9	hewuh	13	hewuh	_
+13	aBipatitumanAH	nomsgf	nom. sg. f.	1	viseranam	17	karwa	_
+14	vallaBe	locsgm	loc. sg. m.	11	karwa	15	axikaranam	_
+15	amuYcati	nomsgn	nom. sg. n.	13	purvakalah	17	purvakalah	_
+16	atigurvI	nomsgf	nom. sg. f.	1	viseranam	17	karwqsamanaxikaranam	_
+17	aBavat	impftsg3	impft . ac. sg. 3	0	root	0	root	_
+
+1	rasasya	gsgm	g. sg. m.	3	viseranam	2	rartisambanxah	_
+2	sTAyinaH	gsgm	g. sg. m.	3	viseranam	3	viseranam	_
+3	ekasya	gsgm	g. sg. m.	4	rartisambanxah	4	rartisambanxah	_
+4	arTe	locsgm	loc. sg. m.	9	axikaranam	9	axikaranam	_
+5	BUyAMsaH	nomplm	nom. pl. m.	7	viseranam	7	viseranam	_
+6	saYcAriRaH	nomplm	nom. pl. m.	7	viseranam	7	viseranam	_
+7	BAvAH	nomplm	nom. pl. m.	9	karwa	9	karwa	_
+8	yaTA	conj	conj.	10	sambanxah	10	sambanxah	_
+9	pravartante	prmdpl3	pr. md. pl. 3	18	samucciwam	18	samucciwam	_
+10	taTA	conj	conj.	17	sambanxah	17	sambanxah	_
+11	sTAyinaH	gsgm	g. sg. m.	13	viseranam	13	viseranam	_
+12	ekasya	gsgm	g. sg. m.	13	viseranam	13	viseranam	_
+13	netuH	gsgm	g. sg. m.	14	rartisambanxah	14	rartisambanxah	_
+14	arTe	locsgm	loc. sg. m.	17	axikaranam	17	axikaranam	_
+15	BUyAMsaH	nomplm	nom. pl. m.	16	viseranam	17	karwa	Collision
+16	mahIBftaH	nomplm	nom. pl. m.	17	karwa	17	karwa	_
+17	pravartante	prmdpl3	pr. md. pl. 3	18	samucciwam	18	samucciwam	_
+18	ca	conj	conj.	0	root	0	root	_
+
+1	rAjasaBAyAm	locsgf	loc. sg. f.	2	axikaranam	2	axikaranam	_
+2	virAjamAnaH	nomsgm	nom. sg. m.	3	viseranam	3	viseranam	_
+3	mahArAjaH	nomplm	nom. pl. m.	5	karwa	10	karwa	Collision
+4	yadA	locsgm	loc. sg. m.	5	axikaranam	5	axikaranam	_
+5	aSfRot	impftsg3	impft. [5] ac. sg. 3	6	prawiyogi	6	prawiyogi	_
+6	yat	accsgn	acc. sg. n.	7	anuyogi	10	anuyogi	_
+7	kaScit	nomsgm	nom. sg. m.	10	karwa	10	karwa	_
+8	tatra	locsgn	loc. sg. n.	9	axikaranam	9	axikaranam	_
+9	AyAtum	inf	inf.	10	prayojanam	10	prayojanam	_
+10	icCati	locsgm	loc. sg. m.	11	prawiyogi	0	root	_
+11	parantu	conj	conj.	14	anuyogi	14	sambanxah	_
+12	dvArapAlaH	nomsgm	nom. sg. m.	14	karwa	14	karwa	_
+13	tam	accsgm	acc. sg. m.	14	karma	14	karma	_
+14	nizeDati	prsg3	pr. [1] ac. sg. 3	0	root	0	root	_
+
+1	rAtreH	gsgf	g. sg. f.	3	rartisambanxah	2	rartisambanxah	_
+2	tftIye	locsgm	loc. sg. m.	3	viseranam	3	viseranam	_
+3	prahare	locsgm	loc. sg. m.	7	axikaranam	7	axikaranam	Collision
+4	grAme	locsgm	loc. sg. m.	7	axikaranam	7	axikaranam	_
+5	dasyudalasya	gsgm	g. sg. m.	6	rartisambanxah	6	rartisambanxah	_
+6	AgamanAt	ablsgn	abl. sg. n.	7	apaxanam	7	apaxanam	_
+7	BItaH	nomsgm	nom. sg. m.	8	viseranam	8	viseranam	_
+8	kfzakaH	nomsgm	nom. sg. m.	14	karwa	14	karwa	_
+9	svakIyam	accsgm	acc. sg. m.	10	viseranam	10	viseranam	_
+10	Danam	accsgf	acc. sg. f.	14	karma	12	karma	Collision
+11	BUmim	accsgf	acc. sg. f.	12	karma	12	karma	_
+12	KanitvA	abs	abs.	14	purvakalah	14	purvakalah	_
+13	tatra	locsgn	loc. sg. n	14	axikaranam	14	axikaranam	_
+14	gopitavAn	ppa	ppa.	0	root	0	root	_
+
+1	diSyAni	accpln	acc. pl. n.	3	viseranam	2	viseranam	_
+2	urURi	accpln	acc. pl. n.	3	viseranam	4	karma	Collision
+3	DanAni	accpln	acc. pl. n.	4	karma	4	karma	_
+4	vikrIya	abs	abs.	15	purvakalah	7	purvakalah	_
+5	uttamalABaBAjaH	accplm	acc. pl. m.	13	viseranam	8	viseranam	_
+6	taTA	conj	conj.	11	sambanxah	7	sambanxah	_
+7	tatratyam	accsgn	acc. sg. n.	9	viseranam	9	viseranam	_
+8	aPalgu	accsgn	acc. sg. n.	9	viseranam	12	viseranam	_
+9	BARqaM	accsgn	acc. sg. n.	11	karma	12	viseranam	_
+10	tarIzu	locplf	loc. pl. f.	11	axikaranam	13	axikaranam	_
+11	AvapataH	accplm	acc. pl. m.	15	bavalakranasapwami_samanakalah	12	viseranam	_
+12	dvEpyAn	accplm	acc. pl. m.	13	viseranam	13	karma	_
+13	sAMyAtrikAn	accplm	acc. pl. m.	15	karma	15	bavalakranasapwami_samanakalah	_
+14	asO	nomsgm	nom. sg. m.	15	karwa	15	karwa	_
+15	aByanandat	impftsg3	impft . ac. sg. 3	0	root	0	root	_
+
+1	Atmavat	nomsgn	nom. sg. n.	3	kriyaviseranam	8	kriyaviseranam	_
+2	sarvatra	locsgm	loc. sg. m.	8	axikaranam	8	axikaranam	Collision
+3	vyavahAraSIlaH	nomsgm	nom. sg. m.	6	viseranam	6	viseranam	_
+4	ayam	nomsgm	nom. sg. m.	6	viseranam	6	viseranam	_
+5	eva	prep	prep.	4	sambanxah	4	sambanxah	_
+6	nAmadevaH	nomsgm	nom. sg. m.	13	karwa	8	karwa	_
+7	agre	locsgn	loc. sg. n.	8	axikaranam	8	axikaranam	_
+8	calitvA	abs	abs.	13	purvakalah	12	purvakalah	_
+9	mahAn	nomsgm	nom. sg. m.	10	viseranam	10	viseranam	_
+10	prasidDaH	nomsgm	nom. sg. m.	12	viseranam	12	karwa	_
+11	BagavadBaktaH	nomsgm	nom. sg. m.	12	viseranam	12	karwqsamanaxikaranam	_
+12	samajAyata	nomsgm	nom. sg. m.	13	karwqsamanaxikaranam	13	prawiyogi	_
+13	iti	part	part.	0	root	14	anuyogi	_
+14	ekaH	nomsgm	nom. sg. m.	13	sambanxah	0	root	_
+
+1	vaDUnAm	gplf	g. pl. f.	2	rartisambanxah	2	rartisambanxah	_
+2	payasi	locsgn	loc. sg. n.	5	axikaranam	5	axikaranam	_
+3	viBUzaRaM	nomsgn	nom. sg. n.	5	karwa	5	karwa	_
+4	paryAptaM	ppsg	pp. . sg. 	5	karwqsamanaxikaranam	5	karwqsamanaxikaranam	_
+5	baBUva	pftsg3	pft. ac. sg. 3	17	samucciwam	17	samucciwam	_
+6	urasiruhezu	locplm	loc. pl. m.	9	axikaranam	11	viseranam	_
+7	PenAnAM	gplm	g. pl. m.	8	rartisambanxah	8	rartisambanxah	_
+8	hAralIlA	nomsgf	nom. sg. f.	9	karwa	9	karwa	_
+9	jAtA	ppsg	pp. . sg. 	17	samucciwam	17	samucciwam	_
+10	SEvalAnAM	gpln	g. pl. n.	11	rartisambanxah	11	rartisambanxah	_
+11	jaGanatalezu	locplm	loc. pl. m.	13	axikaranam	16	axikaranam	Collision
+12	celaSrIH	nomsgf	nom. sg. f.	13	karwa	16	karwa	Collision
+13	jAtA	ppsg	pp. . sg. 	17	samucciwam	14	viseranam	_
+14	gaRqezu	locplm	loc. pl. m.	16	axikaranam	16	axikaranam	_
+15	sPuwaracanAbjapatravallI	nomsgf	nom. sg. f.	16	karwa	16	karwa	_
+16	jAtA	ppsg	pp. . sg. 	17	samucciwam	17	samucciwam	_
+17	ca	conj	conj.	0	root	0	root	_
+
+1	samprati	conj	conj.	3	axikaranam	3	axikaranam	_
+2	musalapARinA	instsgm	inst. sg. m.	3	karwa	3	karwa	_
+3	ukte	nomsgn	nom. sg. n.	7	purvakalah	7	purvakalah	_
+4	sati	locsgm	loc. sg. m.	3	viseranam	3	sambanxah	_
+5	vaktum	inf	inf.	7	prayojanam	7	prayojanam	_
+6	asAmprataM	accsgm	acc. sg. m.	7	viseranam	7	karma	_
+7	Bavati	prsg3	pr. ac. sg. 3	16	samucciwam	16	samucciwam	_
+8	leKena	instsgm	inst. sg. m.	10	karanam	13	karwa	_
+9	arTe	locsgm	loc. sg. m.	10	karwa	13	axikaranam	Collision
+10	nirDArite	locsgm	loc. sg. m.	15	purvakalah	13	axikaranam	_
+11	vAcikaM	accsgm	acc. sg. m.	13	karma	13	karma	_
+12	Kalu	conj	conj.	13	sambanxah	13	sambanxah	_
+13	uktvA	abs	abs.	15	purvakalah	15	purvakalah	_
+14	Kalu	conj	conj.	13	sambanxah	15	sambanxah	_
+15	Bavati	prsg3	pr. ac. sg. 3	16	samucciwam	16	samucciwam	_
+16	ca	conj	conj.	0	root	0	root	_
+
+1	praBAvanI	nomsgf	nom. sg. f.	2	viseranam	2	viseranam	_
+2	maDuSrIH	nomsgf	nom. sg. f.	16	karwa	5	karwa	_
+3	jagat	accsgn	acc. sg. n.	4	karma	4	karma	_
+4	vaSIkartuM	conj	conj.	11	prayojanam	9	prayojanam	_
+5	praBO	locsgm	loc. sg. m.	8	viseranam	9	axikaranam	Collision
+6	asya	gsgm	g. sg. m.	7	viseranam	7	viseranam	_
+7	smarasya	gsgm	g. sg. m.	8	rartisambanxah	8	rartisambanxah	_
+8	anIke	locsgm	loc. sg. m.	11	axikaranam	9	axikaranam	_
+9	jayantIH	nomsgn	nom. sg. n.	10	viseranam	11	viseranam	_
+10	ketanavEjayantIH	accplf	acc. pl. f.	11	karma	11	viseranam	_
+11	tanavE	impmdsg1	imp. md. sg. 1	12	prawiyogi	12	prawiyogi	_
+12	iti	conj	conj.	13	anuyogi	13	anuyogi	_
+13	manIzayA	instsgf	inst. sg. f.	16	karanam	16	hewuh	_
+14	imAH	accplf	acc. pl. f.	15	viseranam	15	viseranam	_
+15	kadalIH	accplf	acc. pl. f.	16	karma	16	karma	_
+16	tene	pftmdsg3	pft. md. sg. 3	0	root	0	root	_
+
+1	balaUrmiBiH	instplm	inst. pl. m.	8	karanam	8	karwa	_
+2	valayEH	instplm	inst. pl. m.	3	prawiyogi	3	prawiyogi	_
+3	iva	conj	conj.	1	anuyogi	4	anuyogi	_
+4	tatkzaRahIyamAnaraTyABujAyAH	gsgf	g. sg. f.	6	viseranam	5	viseranam	_
+5	asyAH	gsgf	g. sg. f.	6	upapaxasambanxah	6	rartisambanxah	_
+6	puraH	locsgm	loc. sg. m.	8	axikaranam	8	axikaranam	Collision
+7	cakrapARO	locsgm	loc. sg. m.	8	karwa	8	axikaranam	_
+8	nizkrAmati	prsg3	pr. ac. sg. 3	14	purvakalah	14	bavalakranasapwami_samanakalah	_
+9	sati	locsgm	loc. sg. m.	8	viseranam	8	viseranam	_
+10	prAyeRa	conj	conj.	14	kriyaviseranam	14	sambanxah	_
+11	dvAravatItvam	nomsgn	nom. sg. n.	14	karwa	12	viseranam	_
+12	izwaM	nomsgn	nom. sg. n.	14	karwqsamanaxikaranam	14	karma	_
+13	na	conj	conj.	14	sambanxah	14	sambanxah	_
+14	AsIt	impftsg3	impft . ac. sg. 3	0	root	0	root	_
+
+1	aNgulicCedanam	nomsgn	nom. sg. n.	6	karwa	6	karma	Collision
+2	eva	prep	prep.	1	sambanxah	1	sambanxah	_
+3	adya	locsgm	loc. sg. m.	6	axikaranam	6	axikaranam	_
+4	me	gsg*	g. sg. *	5	rartisambanxah	5	rartisambanxah	_
+5	prARarakzAm	accsgf	acc. sg. f.	6	karma	6	karma	_
+6	akarot	impftsg3	impft. [8] ac. sg. 3	7	prawiyogi	7	prawiyogi	_
+7	iti	part	part.	8	anuyogi	8	anuyogi	_
+8	kaTayitvA	abs	abs.	15	purvakalah	15	purvakalah	_
+9	AtmanA	instsg*	i. sg. *	10	prawiyogi	10	prawiyogi	_
+10	saha	prep	prep.	13	anuyogi	8	anuyogi	_
+11	GawitAm	accsgf	acc. sg. f.	13	viseranam	13	viseranam	_
+12	sarvAm	accsgf	acc. sg. f.	13	viseranam	13	viseranam	_
+13	GawanAm	accsgf	acc. sg. f.	15	karma	14	karma	_
+14	vistareRa	adv	adv.	15	kriyaviseranam	15	kriyaviseranam	_
+15	aSrAvayat	caimpftsg3	ca. impft. ac. sg. 3	0	root	0	root	_
+
+1	sanDyAMyAvat	locsgn	loc. sg. n.	7	axikaranam	5	viseranam	_
+2	grAmasImAyAm	locsgf	loc. sg. f.	3	axikaranam	6	axikaranam	Collision
+3	sTitasya	locsgn	loc. sg. n.	5	viseranam	4	viseranam	_
+4	vawavfkzasya	gsgm	g. sg. m.	6	rartisambanxah	5	rartisambanxah	_
+5	CAyAyAm	locsgf	loc. sg. f.	7	axikaranam	6	axikaranam	_
+6	gatvA	abs	abs.	8	purvakalah	7	purvakalah	_
+7	sTitaH	nomsgm	nom. sg. m.	8	karwqsamanaxikaranam	9	samucciwam	_
+8	vyacArayat	caimpftsg3	ca. impft. ac. sg. 3	10	prawiyogi	9	samucciwam	_
+9	ca	conj	conj.	8	sambanxah	13	sambanxah	_
+10	yat	accsgn	acc. sg. n.	11	anuyogi	11	anuyogi	_
+11	mAm	accsg*	acc. sg. *	12	karma	12	karma	_
+12	Anetum	inf	inf.	14	samucciwam	17	prayojanam	_
+13	vinetum	inf	inf.	14	samucciwam	14	samucciwam	_
+14	ca	conj	conj.	17	prayojanam	17	sambanxah	_
+15	avaSyam	adv	adv.	17	kriyaviseranam	17	kriyaviseranam	_
+16	kaScit	nomsgm	nom. sg. m.	17	karwa	17	karwa	_
+17	AyAsyati	futsg3	fut. ac. sg. 3	0	root	0	root	_
+
+1	saH	nomsgm	nom. sg. m.	19	karwa	19	karwa	_
+2	aDivelaM	conj	conj.	8	axikaranam	8	axikaranam	_
+3	jalAnAM	gpln	g. pl. n.	4	rartisambanxah	4	rartisambanxah	_
+4	niDinA	instsgm	inst. sg. m.	19	karanam	8	karanam	_
+5	atigArDyAt	ablsgn	abl. sg. n.	7	hewuh	7	hewuh	_
+6	pItvA	abs	abs.	8	purvakalah	8	purvakalah	_
+7	vfdDiM	accsgf	acc. sg. f.	8	karma	8	karma	_
+8	gate	nomsgn	nom. sg. n.	10	viseranam	10	viseranam	_
+9	api	conj	conj.	8	sambanxah	8	sambanxah	_
+10	Atmani	locsgm	loc. sg. m.	14	axikaranam	14	axikaranam	_
+11	na	conj	conj.	10	sambanxah	13	sambanxah	_
+12	eva	conj	conj.	11	sambanxah	11	sambanxah	_
+13	mAntIH	accplf	acc. pl. f.	19	bavalakranasapwami_samanakalah	19	karma	Collision
+14	kziptAH	accplf	acc. pl. f.	16	viseranam	16	viseranam	_
+15	indo	gsgm	g. sg. m.	16	rartisambanxah	16	rartisambanxah	_
+16	rucaH	accplf	acc. pl. f.	17	prawiyogi	17	prawiyogi	_
+17	iva	conj	conj.	18	anuyogi	18	anuyogi	_
+18	muktAvalIH	accplf	acc. pl. f.	19	karma	19	karma	_
+19	AkalayAYcakAra	pftsg3	pft. ps. sg. 3	0	root	0	root	_
+
+1	SvaH	locsgm	loc. sg. m.	2	axikaranam	8	axikaranam	Collision
+2	pravartamAnasaNgrAmasya	gsgm	g. sg. m.	6	rartisambanxah	3	rartisambanxah	_
+3	pUrvadine	accdun	acc. du. n.	4	viseranam	7	axikaranam	_
+4	adya	locsgm	loc. sg. m.	21	axikaranam	8	axikaranam	_
+5	yatra	locsgm	loc. sg. m.	6	axikaranam	8	axikaranam	_
+6	BUmO	locsgf	loc. sg. f.	8	axikaranam	8	axikaranam	_
+7	yudDaH	nomsgm	nom. sg. m.	8	karma	8	karwa	_
+8	pravartayitavyaH	capfp	ca. pfp. [3]	22	samucciwam	22	samucciwam	_
+9	tatra	locsgm	loc. sg. m.	21	axikaranam	18	axikaranam	_
+10	eva	prep	prep.	9	sambanxah	9	sambanxah	_
+11	kimarTam	accsgm	acc. sg. m.	21	sambanxah	22	samucciwam	_
+12	mama	gsg*	g. sg. *	13	viseranam	15	viseranam	_
+13	viroDinaH	gsgm	g. sg. m.	14	viseranam	17	rartisambanxah	_
+14	arjunasya	gsgm	g. sg. m.	15	viseranam	15	viseranam	_
+15	mAtuH	gsgf	g. sg. f.	16	rartisambanxah	16	rartisambanxah	_
+16	svareRa	instsgm	i. sg. m.	21	karanam	18	karanam	_
+17	mayA	nomplm	nom. pl. m.	18	karwa	18	karwa	_
+18	vismftaH	nomsgm	nom. sg. m.	20	viseranam	22	samucciwam	_
+19	mama	gsg*	g. sg. *	20	rartisambanxah	20	rartisambanxah	_
+20	mAtfBAvaH	nomsgm	nom. sg. m.	21	karma	21	karwa	_
+21	jYApanIyaH	capfp	ca. pfp. [2]	22	samucciwam	22	samucciwam	_
+22	ca	conj	conj.	0	root	0	root	_
+
+1	iti	conj	conj.	2	prawiyogi	19	sambanxah	_
+2	sarasi	vocsgf	voc. sg. f.	3	anuyogi	7	axikaranam	_
+3	majjanena	nomsgn	nom. sg. n.	4	hewuh	7	karanam	_
+4	DOtapuranDrimatsarAn	accplm	acc. pl. m.	9	viseranam	6	viseranam	_
+5	atiSAyinIM	accsgf	acc. sg. f.	6	viseranam	6	viseranam	_
+6	Sriyam	accsgf	acc. sg. f.	7	karma	7	karma	_
+7	AptavataH	pppl	pp. . pl. 	9	viseranam	9	viseranam	_
+8	apamalANgaBAsaH	accplm	acc. pl. m.	9	viseranam	10	karma	Collision
+9	yAdavAn	accplm	acc. pl. m.	10	karma	10	karma	_
+10	avalokya	conj	conj.	19	purvakalah	19	purvakalah	_
+11	tadA	conj	conj.	19	axikaranam	19	axikaranam	Collision
+12	eva	conj	conj.	11	sambanxah	11	sambanxah	_
+13	SiSiretararocizA	instsgn	inst. sg. n.	19	karwa	19	karwa	_
+14	api	conj	conj.	13	sambanxah	19	sambanxah	_
+15	aparavArirASeH	gsgm	g. sg. m.	16	rartisambanxah	16	viseranam	_
+16	apAm	gplf	g. pl. f.	17	rartisambanxah	17	rartisambanxah	_
+17	tatizu	locplf	loc. pl. f.	18	axikaranam	19	axikaranam	_
+18	maNktum	conj	conj.	19	prayojanam	19	prayojanam	_
+19	Ize	pftmdsg3	pft. md. sg. 3	0	root	0	root	_
+
+1	priyatamavakzasaH	ablsgn	abl. sg. n.	10	apaxanam	2	hewuh	_
+2	saNkrAntam	accsgm	acc. sg. m.	4	viseranam	4	viseranam	_
+3	asyAH	gsgf	g. sg. f.	4	rartisambanxah	4	rartisambanxah	_
+4	aNgarAgam	accsgm	acc. sg. m.	9	karma	9	karma	Collision
+5	aDunA	conj	conj.	9	axikaranam	9	axikaranam	Collision
+6	sarasi	locsgn	loc. sg. n.	9	axikaranam	9	axikaranam	_
+7	amBaH	nomsgn	nom. sg. n.	9	karwa	9	karma	_
+8	sADu	conj	conj.	9	viseranam	9	viseranam	_
+9	harizyate	futmdsg3	fut. md. sg. 3	10	prawiyogi	10	prawiyogi	_
+10	iti	conj	conj.	11	anuyogi	11	anuyogi	_
+11	evaM	conj	conj.	20	sambanxah	15	sambanxah	_
+12	tuzwvA	conj	conj.	20	purvakalah	15	purvakalah	_
+13	sapadi	conj	conj.	15	viseranam	15	viseranam	_
+14	tatra	conj	conj.	15	axikaranam	15	axikaranam	_
+15	hfte	ppsg	pp. . sg. 	20	purvakalah	20	purvakalah	_
+16	api	conj	conj.	15	sambanxah	15	sambanxah	_
+17	sPuwanaKalakzmaRaH	gsgf	g. sg. f.	18	viseranam	18	viseranam	_
+18	kasyAScit	gsgf	g. sg. f.	19	rartisambanxah	19	rartisambanxah	_
+19	sapatnyA	instsgf	inst. sg. f.	20	karwa	20	karwa	_
+20	tepe	pftmdsg3	pft. md. sg. 3	0	root	0	root	_
+
+1	iti	conj	conj.	2	sambanxah	2	sambanxah	_
+2	bruvantaM	accsgm	acc. sg. m.	3	viseranam	3	viseranam	_
+3	tam	accsgm	acc. sg. m.	6	karma	6	karma	_
+4	saH	nomsgm	nom. sg. m.	5	viseranam	6	karwa	_
+5	vratI	nomsgm	nom. sg. m.	6	karwa	6	karwqsamanaxikaranam	_
+6	uvAca	pftsg3	pft. ac. sg. 3	23	samucciwam	23	samucciwam	_
+7	puruzottama	vocsgm	voc. sg. m.	11	samboxyah	17	samboxyah	_
+8	tvayA	instsgn	inst. sg. n.	11	karwa	11	karwa	_
+9	itTaM	conj	conj.	11	viseranam	17	sambanxah	_
+10	na	conj	conj.	11	sambanxah	17	sambanxah	_
+11	vAcyaM	accsgm	acc. sg. m.	23	samucciwam	14	viseranam	_
+12	yoginAm	gplm	g. pl. m.	14	rartisambanxah	14	rartisambanxah	_
+13	api	conj	conj.	12	sambanxah	12	sambanxah	_
+14	tvam	nomsgn	nom. sg. n.	16	viseranam	17	karwa	_
+15	eva	conj	conj.	14	sambanxah	14	sambanxah	_
+16	sAkzAtkaraRIyaH	pfpsg	pfp. . sg. 	17	karwa	17	karwqsamanaxikaranam	_
+17	asi	prsg2	pr. ac. sg. 2	23	samucciwam	23	samucciwam	_
+18	ityataH	conj	conj.	22	sambanxah	20	viseranam	_
+19	guru	nomsgn	nom. sg. n.	20	viseranam	20	viseranam	_
+20	kAryam	nomsgn	nom. sg. n.	22	karwa	22	karwa	Collision
+21	kim	nomsgn	nom. sg. n.	22	karwqsamanaxikaranam	22	karwa	_
+22	asti	prsg3	pr. ac. sg. 3	23	samucciwam	23	samucciwam	_
+23	ca	conj	conj.	0	root	0	root	_
+
+1	tatra	locsgm	loc. sg. m.	3	axikaranam	3	axikaranam	_
+2	saH	nomsgm	nom. sg. m.	3	karwa	3	karwa	_
+3	smftavAn	nomsgm	nom. sg. m.	4	prawiyogi	4	prawiyogi	_
+4	yat	accsgn	acc. sg. n.	5	anuyogi	13	anuyogi	_
+5	tasya	gsgn	g. sg. n.	7	rartisambanxah	6	rartisambanxah	_
+6	bahuvyayakAriRI	nomsgf	nom. sg. f.	7	viseranam	7	viseranam	_
+7	patnI	nomsgf	nom. sg. f.	11	karwa	11	karwa	_
+8	nirarTakam	accsgm	acc. sg. m.	9	viseranam	9	viseranam	_
+9	vyayam	accsgm	acc. sg. m.	11	karma	11	karma	_
+10	na	part	part.	11	sambanxah	11	sambanxah	_
+11	kuryAt	optsg3	opt. [8] ac. sg. 3	12	prawiyogi	12	prawiyogi	_
+12	iti	part	part.	13	anuyogi	13	anuyogi	_
+13	vicArya	caabs	ca. abs.	20	purvakalah	20	purvakalah	_
+14	SIGram	accsgm	acc. sg. m.	15	sambanxah	20	karma	Collision
+15	SIGram	accsgm	acc. sg. m.	16	sambanxah	20	karma	_
+16	padAtiH	nomsgf	nom. sg. f.	20	karwqsamanaxikaranam	20	karwqsamanaxikaranam	_
+17	eva	prep	prep.	16	sambanxah	16	sambanxah	_
+18	palAyamAnaH	nomsgm	nom. sg. m.	20	karwqsamanaxikaranam	20	karwqsamanaxikaranam	_
+19	gfham	accsgn	acc. sg. n.	20	karma	20	karma	_
+20	pratyAvfttaH	pp	pp.	0	root	0	root	_
+
+1	vAri	nompln	nom. pl. n.	6	karwa	6	karwa	_
+2	yadUnAM	gplm	g. pl. m.	3	rartisambanxah	3	rartisambanxah	_
+3	vakzoByaH	ablplm	abl. pl. m.	4	apaxanam	6	apaxanam	_
+4	Ganam	accsgn	acc. sg. n.	5	viseranam	5	viseranam	_
+5	anulepanam	nomsgn	nom. sg. n.	6	karma	6	karma	_
+6	aharata	impftmdsg3	impft . md. sg. 3	22	samucciwam	22	samucciwam	_
+7	mUrDajeByaH	ablplm	abl. pl. m.	9	apaxanam	8	hewuh	_
+8	uttaMsAn	nomsgn	nom. sg. n.	9	karma	14	karma	_
+9	aharata	impftpl2	impft . ac. pl. 2	22	samucciwam	22	samucciwam	_
+10	netrARAM	gpln	g. pl. n.	11	rartisambanxah	11	rartisambanxah	_
+11	madaruciH	nomsgf	nom. sg. f.	14	karwqsamanaxikaranam	14	karwa	_
+12	akzatA	nomsgf	nom. sg. f.	14	karwa	14	karwqsamanaxikaranam	_
+13	eva	conj	conj.	12	sambanxah	12	sambanxah	_
+14	tasTO	pftsg3	pft. ac. sg. 3	22	samucciwam	22	samucciwam	_
+15	taTAhi	conj	conj.	14	sambanxah	20	sambanxah	_
+16	mahatAM	gplm	g. pl. m.	17	rartisambanxah	17	rartisambanxah	_
+17	cakzuzyaH	nomsgm	nom. sg. m.	19	karma	20	karwa	Collision
+18	parEH	instplm	inst. pl. m.	19	karwa	20	karwa	_
+19	alaNGyaH	nomsgm	nom. sg. m.	20	karwa	20	karwqsamanaxikaranam	_
+20	Bavati	prsg3	pr. ac. sg. 3	22	samucciwam	22	samucciwam	_
+21	Kalu	conj	conj.	20	sambanxah	20	sambanxah	_
+22	ca	conj	conj.	0	root	0	root	_
+
+1	iha	conj	conj.	19	axikaranam	19	axikaranam	_
+2	raviH	nomsgm	nom. sg. m.	16	viseranam	19	karwa	Collision
+3	darpaRanirmalAsu	locplf	loc. pl. f.	5	viseranam	6	viseranam	_
+4	puraH	conj	conj.	5	viseranam	11	viseranam	_
+5	rOpyaBittizu	locplf	loc. pl. f.	6	axikaranam	6	viseranam	_
+6	patite	locsgm	loc. sg. m.	8	viseranam	8	viseranam	_
+7	Ganatimiramuzi	locsgm	loc. sg. m.	8	viseranam	8	viseranam	_
+8	jyotizi	locsgm	loc. sg. m.	11	karwa	11	axikaranam	Collision
+9	kAYcanakandarAsu	locplf	loc. pl. f.	11	axikaranam	11	axikaranam	_
+10	muhuH	conj	conj.	11	viseranam	11	viseranam	_
+11	pratiPalati	nomsgn	nom. sg. n.	19	purvakalah	19	bavalakranasapwami_samanakalah	_
+12	sati	nomsgn	nom. sg. n.	11	viseranam	11	sambanxah	_
+13	ramaREH	instplm	inst. pl. m.	19	karanam	11	karwa	_
+14	apahftavasanAH	accplf	acc. pl. f.	15	viseranam	15	viseranam	_
+15	taruRIH	accplf	acc. pl. f.	19	karma	19	karma	Collision
+16	asammuKaH	nomsgm	nom. sg. m.	19	karwa	19	karwa	_
+17	api	conj	conj.	16	sambanxah	16	sambanxah	_
+18	vrIqaM	accsgm	acc. sg. m.	19	karma	19	karma	_
+19	nayati	prsg3	pr. ac. sg. 3	0	root	0	root	_
+
+1	yantrA	instsgm	inst. sg. m.	12	karwa	2	karwa	_
+2	AkalanAya	datsgn	dat. sg. n.	3	waxarwyam	4	waxarwyam	_
+3	sAnunayaM	conj	conj.	5	viseranam	4	karma	_
+4	nItena	instsgm	inst. sg. m.	5	viseranam	5	viseranam	_
+5	gajena	instsgm	inst. sg. m.	8	karwa	12	karwa	Collision
+6	vanyakaridAnakftaaDivAsaH	nomsgm	nom. sg. m.	7	viseranam	8	viseranam	_
+7	SAKI	nomsgm	nom. sg. m.	8	karma	8	viseranam	_
+8	sevyaH	nomsgm	nom. sg. m.	12	karma	12	karwa	_
+9	api	conj	conj.	8	sambanxah	8	sambanxah	_
+10	san	nomsgm	nom. sg. m.	12	bavalakranasapwami_samanakalah	12	bavalakranasapwami_samanakalah	_
+11	na	conj	conj.	12	sambanxah	12	sambanxah	_
+12	aBAji	impftmdsg3	impft. md. sg. 3	23	samucciwam	23	samucciwam	_
+13	kintu	conj	conj.	15	sambanxah	15	sambanxah	_
+14	kevalam	conj	conj.	15	viseranam	15	sambanxah	_
+15	aBAji	impftmdsg3	impft. md. sg. 3	23	samucciwam	23	samucciwam	_
+16	taTAhi	conj	conj.	22	sambanxah	22	sambanxah	_
+17	mAnaBftaH	nomplm	nom. pl. m.	22	karwa	22	karwa	_
+18	anyasya	gsgm	g. sg. m.	19	rartisambanxah	19	rartisambanxah	_
+19	ganDam	accsgm	acc. sg. m.	22	karma	22	karma	_
+20	api	conj	conj.	19	sambanxah	19	sambanxah	_
+21	na	conj	conj.	22	sambanxah	22	sambanxah	_
+22	sahante	prmdpl3	pr. md. pl. 3	23	samucciwam	23	samucciwam	_
+23	ca	conj	conj.	0	root	0	root	_
+
+1	amAnavam	nomsgm	nom. sg. m.	2	viseranam	2	viseranam	_
+2	ajaM	accsgm	acc. sg. m.	5	karma	5	karma	_
+3	manoH	gsgm	g. sg. m.	4	rartisambanxah	4	rartisambanxah	_
+4	kule	locsgn	loc. sg. n.	5	axikaranam	5	axikaranam	_
+5	jAtaM	accsgm	acc. sg. m.	7	viseranam	10	viseranam	_
+6	praBAvinaM	accsgm	acc. sg. m.	7	viseranam	10	viseranam	_
+7	BavantaM	accsgm	acc. sg. m.	10	viseranam	10	viseranam	_
+8	AtmanaH	gsgm	g. sg. m.	10	rartisambanxah	10	rartisambanxah	_
+9	antaM	accsgm	acc. sg. m.	10	viseranam	10	viseranam	_
+10	BAvinaM	accsgm	acc. sg. m.	11	karma	16	karma	Collision
+11	jAnan	nomsgm	nom. sg. m.	16	bavalakranasapwami_samanakalah	16	bavalakranasapwami_samanakalah	_
+12	api	conj	conj.	16	sambanxah	16	sambanxah	_
+13	yaH	nomsgm	nom. sg. m.	16	karwa	16	karwa	_
+14	jAnakIM	accsgf	acc. sg. f.	16	karma	16	karma	_
+15	na	conj	conj.	16	sambanxah	16	sambanxah	_
+16	mumoca	pftsg3	pft. ac. sg. 3	22	samucciwam	22	samucciwam	_
+17	hi	conj	conj.	21	sambanxah	21	sambanxah	_
+18	mAninaH	nomplm	nom. pl. m.	20	viseranam	21	karwa	Collision
+19	sadA	conj	conj.	21	kriyaviseranam	21	kriyaviseranam	_
+20	aBimAnEkaDanAH	nomplm	nom. pl. m.	21	karwa	21	karwa	_
+21	Bavanti	prpl3	pr. ac. pl. 3	22	samucciwam	22	samucciwam	_
+22	ca	conj	conj.	0	root	0	root	_
+
+1	guhena	instsgm	i. sg. m.	4	samucciwam	4	samucciwam	_
+2	lakzmaRena	instsgm	i. sg. m.	4	samucciwam	4	samucciwam	_
+3	sItayA	instsgf	i. sg. f.	4	samucciwam	4	samucciwam	_
+4	ca	conj	conj.	5	upapaxasambanxah	5	upapaxasambanxah	_
+5	sahitaH	prep	prep.	6	sambanxah	6	sambanxah	_
+6	rAmaH	nomsgm	nom. sg. m.	20	karwa	20	karwa	_
+7	vanena	instsgn	i. sg. n.	9	karanam	9	karanam	_
+8	vanam	accsgn	acc. sg. n.	9	karma	9	karma	_
+9	gatvA	abs	abs.	20	purvakalah	20	purvakalah	_
+10	bahUdakAH	accplf	acc. pl. f.	11	viseranam	11	viseranam	_
+11	nadIH	accplf	acc. pl. f.	12	karma	16	karma	Collision
+12	tIrtvA	abs	abs.	20	purvakalah	20	purvakalah	_
+13	BaradvAjasya	gsgm	g. sg. m.	14	rartisambanxah	14	rartisambanxah	_
+14	SAsanAt	ablsgm	abl. sg. m.	16	apaxanam	16	apaxanam	_
+15	citrakUwam	accsgm	acc. sg. m.	16	karma	16	karma	_
+16	anuprApya	abs	abs.	20	purvakalah	20	purvakalah	_
+17	vane	locsgn	loc. sg. n.	20	axikaranam	20	axikaranam	_
+18	ramyam	accsgm	acc. sg. m.	19	viseranam	19	karma	_
+19	AvasaTam	accsgm	acc. sg. m.	20	karma	20	karma	_
+20	akarot	impftsg3	impft. [8] ac. sg. 3	0	root	0	root	_
+
+1	leKasya	gsgm	g. sg. m.	4	rartisambanxah	4	rartisambanxah	_
+2	idam	accsgn	acc. sg. n.	4	viseranam	4	viseranam	_
+3	nindanIyam	accsgn	acc. sg. n.	4	viseranam	4	viseranam	_
+4	AcaraRam	accsgn	acc. sg. n.	15	karma	15	karma	Collision
+5	tezAm	gpln	g. pl. n.	6	viseranam	7	rartisambanxah	_
+6	svasya	gsgn	g. sg. n.	7	rartisambanxah	7	rartisambanxah	_
+7	dAtuH	gsgm	g. sg. m.	8	rartisambanxah	10	rartisambanxah	_
+8	ADAreRa	instsgm	i. sg. m.	15	karanam	15	karanam	Collision
+9	patrasya	gsgn	g. sg. n.	10	rartisambanxah	10	rartisambanxah	_
+10	sampAdakena	instsgm	i. sg. m.	19	karwa	15	karanam	_
+11	svakIye	locsgn	loc. sg. n.	12	viseranam	12	viseranam	_
+12	patre	locsgn	loc. sg. n.	15	axikaranam	15	axikaranam	_
+13	aDiveSanasya	gsgn	g. sg. n.	14	rartisambanxah	14	rartisambanxah	_
+14	carcAm	accsgf	acc. sg. f.	15	karma	15	karma	_
+15	kurvantaH	ppr	ppr. [8] ac.	19	viseranam	16	viseranam	_
+16	arDAH	accplf	acc. pl. f.	17	viseranam	17	viseranam	_
+17	sadasyAH	accplf	acc. pl. f.	18	viseranam	19	karma	_
+18	aSizwAH	accplf	acc. pl. f.	19	karma	19	karma	_
+19	prakASitAH	capp	ca. pp.	0	root	0	root	_
+
+1	sataH	gsgm	g. sg. m.	2	rartisambanxah	2	rartisambanxah	_
+2	budDiH	nomsgf	nom. sg. f.	4	karwa	4	karwa	_
+3	tIkzRA	nomsgf	nom. sg. f.	2	viseranam	4	karwqsamanaxikaranam	_
+4	syAt	optsg3	opt. ac. sg. 3	5	prawiyogi	5	prawiyogi	_
+5	iti	conj	conj.	6	anuyogi	6	anuyogi	_
+6	vidDi	impsg2	imp. ac. sg. 2	28	samucciwam	28	samucciwam	_
+7	taTApi	conj	conj.	10	sambanxah	10	sambanxah	_
+8	aruntudA	nomsgf	nom. sg. f.	10	karwa	19	karwa	Collision
+9	na	conj	conj.	10	sambanxah	10	sambanxah	_
+10	syAt	optsg3	opt. ac. sg. 3	28	samucciwam	28	samucciwam	_
+11	karma	accsgn	acc. sg. n.	13	karwa	19	karma	_
+12	pratApavat	nomsgn	nom. sg. n.	11	viseranam	19	karwa	_
+13	Bavet	optsg3	opt. ac. sg. 3	28	samucciwam	28	samucciwam	_
+14	taTApi	conj	conj.	16	sambanxah	19	sambanxah	_
+15	SAntaM	nomsgn	nom. sg. n.	16	karwa	19	karwa	_
+16	syAt	optsg3	opt. ac. sg. 3	28	samucciwam	28	samucciwam	_
+17	manaH	nomsgn	nom. sg. n.	19	karwa	19	karwa	_
+18	sozma	nomsgn	nom. sg. n.	17	viseranam	19	karwa	_
+19	syAt	optsg3	opt. ac. sg. 3	28	samucciwam	28	samucciwam	_
+20	taTApi	conj	conj.	23	sambanxah	23	sambanxah	_
+21	upatApi	nomsgn	nom. sg. n.	22	karwa	27	karwa	_
+22	na	conj	conj.	23	sambanxah	27	sambanxah	_
+23	syAt	optsg3	opt. ac. sg. 3	28	samucciwam	28	samucciwam	_
+24	vAgminaH	gsgm	g. sg. m.	25	rartisambanxah	25	rartisambanxah	_
+25	vAg	nomsgf	nom. sg. f.	27	karwa	27	karwa	_
+26	ekA	nomsgf	nom. sg. f.	25	viseranam	27	karwa	_
+27	Bavati	prsg3	pr. ac. sg. 3	28	samucciwam	28	samucciwam	_
+28	ca	conj	conj.	0	root	0	root	_
+
+1	yA	nomsgn	nom. sg. n.	24	karwa	2	karwa	Collision
+2	asti	prsg3	pr. [2] ac. sg. 3	25	samucciwam	25	samucciwam	_
+3	tapoviSezapariSaNkitasya	nomsgn	nom. sg. n.	5	viseranam	5	viseranam	_
+4	sukumAram	nomsgn	nom. sg. n.	5	viseranam	5	viseranam	_
+5	praharaRam	nomsgn	nom. sg. n.	1	viseranam	2	karwa	_
+6	mahendrasya	nomsgn	nom. sg. n.	4	rartisambanxah	10	rartisambanxah	_
+7	pratyAdeSaH	nomsgm	nom. sg. m.	1	viseranam	15	viseranam	_
+8	rUpagarvitAyAH	gsgf	g. sg. f.	9	viseranam	9	viseranam	_
+9	SriyaH	gsgf	g. sg. f.	6	rartisambanxah	10	rartisambanxah	_
+10	alaNkAraH	nomsgm	nom. sg. m.	1	viseranam	15	viseranam	_
+11	svargasya	gsgm	g. sg. m.	9	rartisambanxah	10	rartisambanxah	_
+12	sA	nomsgf	nom. sg. f.	13	viseranam	15	viseranam	_
+13	naH	gpl*	g. pl. *	15	rartisambanxah	14	rartisambanxah	_
+14	priyasaKI	nomsgf	nom. sg. f.	15	viseranam	15	viseranam	_
+15	urvaSI	nomsgf	nom. sg. f.	24	karma	20	viseranam	_
+16	kuberaBavanAt	ablsgn	abl. sg. n.	24	apaxanam	17	hewuh	_
+17	pratinirvartamAnA	locsgf	loc. sg. f.	19	viseranam	21	viseranam	_
+18	samApattidfzwena	instsgn	i. sg. n.	19	viseranam	21	hewuh	_
+19	keSinA	nomsgm	nom. sg. m.	20	viseranam	21	viseranam	_
+20	dAnavena	nomsgm	nom. sg. m.	24	karwa	21	viseranam	_
+21	citraleKAdvitIyA	nomplm	nom. pl. m.	22	viseranam	22	viseranam	_
+22	bandIgrAham	nomsgn	nom. sg. n.	24	karwa	23	karma	_
+23	gfhItA	adv	adv.	24	kriyaviseranam	24	karwqsamanaxikaranam	_
+24	asti	prsg3	pr. [2] ac. sg. 3	25	samucciwam	25	samucciwam	_
+25	ca	conj	conj.	0	root	0	root	_
+
+1	balaAkrAntaH	nomsgm	nom. sg. m.	3	viseranam	3	viseranam	_
+2	asO	nomsgm	nom. sg. m.	3	viseranam	3	viseranam	_
+3	giripatiH	nomsgm	nom. sg. m.	27	karwa	16	karwa	Collision
+4	krIqaddviradmaTitaurvIruharavEH	instplm	inst. pl. m.	3	hewuh	3	hewuh	_
+5	SrIpatiM	accsgm	acc. sg. m.	27	karma	16	karma	_
+6	nanu	conj	conj.	7	sambanxah	16	sambanxah	_
+7	tvaM	nomsgn	nom. sg. n.	10	karwa	16	karwa	_
+8	Darasya	gsgm	g. sg. m.	9	rartisambanxah	9	rartisambanxah	_
+9	udDartA	nomsgm	nom. sg. m.	10	karwqsamanaxikaranam	10	karwqsamanaxikaranam	_
+10	asi	prsg2	pr. ac. sg. 2	11	prawiyogi	11	prawiyogi	_
+11	iti	conj	conj.	12	anuyogi	12	anuyogi	_
+12	sarvatra	conj	conj.	15	axikaranam	24	axikaranam	Collision
+13	jagati	locsgn	loc. sg. n.	16	axikaranam	24	axikaranam	_
+14	tvaM	nomsgn	nom. sg. n.	16	karwa	16	karwa	_
+15	pratItaH	nomsgm	nom. sg. m.	16	karwqsamanaxikaranam	16	karwqsamanaxikaranam	_
+16	asi	prsg2	pr. ac. sg. 2	0	root	0	root	_
+17	tat	accsgn	acc. sg. n.	18	viseranam	20	viseranam	_
+18	kim	conj	conj.	24	sambanxah	24	sambanxah	_
+19	atiBaraM	accsgm	acc. sg. m.	20	viseranam	20	viseranam	_
+20	mAm	accsgn	acc. sg. n.	24	karma	24	karma	_
+21	tvaM	nomsgn	nom. sg. n.	24	karwa	24	karwa	_
+22	aDaH	conj	conj.	24	axikaranam	24	axikaranam	_
+23	prApipayizuH	nomsgm	nom. sg. m.	24	karwqsamanaxikaranam	24	karwqsamanaxikaranam	_
+24	asi	prsg2	pr. ac. sg. 2	25	prawiyogi	25	prawiyogi	_
+25	iti	conj	conj.	26	anuyogi	26	anuyogi	_
+26	uccEH	conj	conj.	27	kriyaviseranam	27	kriyaviseranam	_
+27	upAlabDaH	nomsgm	nom. sg. m.	28	prawiyogi	28	prawiyogi	_
+28	iva	conj	conj.	16	anuyogi	3	anuyogi	_
+
+1	balI	nomsgm	nom. sg. m.	3	viseranam	3	viseranam	_
+2	yaH	nomsgm	nom. sg. m.	8	sambanxah	3	viseranam	_
+3	rAvaRaH	nomsgm	nom. sg. m.	7	karwa	11	karwa	Collision
+4	namucidvizA	instsgm	inst. sg. m.	7	karanam	5	hewuh	_
+5	vigfhya	conj	conj.	7	prayojanam	7	viseranam	_
+6	purIm	accsgf	acc. sg. f.	7	karma	7	karma	_
+7	avaskanda	impsg2	imp. ac. sg. 2	27	samucciwam	11	purvakalah	_
+8	saH	nomsgm	nom. sg. m.	9	viseranam	3	viseranam	_
+9	rAvaRaH	nomsgm	nom. sg. m.	11	karwa	11	karwa	_
+10	nandanaM	accsgm	acc. sg. m.	11	karma	11	karma	_
+11	lunIhi	impsg2	imp. ac. sg. 2	27	samucciwam	27	samucciwam	_
+12	saH	nomsgm	nom. sg. m.	13	viseranam	13	viseranam	_
+13	rAvaRaH	nomsgm	nom. sg. m.	15	karwa	11	karwa	_
+14	ratnAni	accpln	acc. pl. n.	15	karma	15	karma	_
+15	muzARa	impsg2	imp. ac. sg. 2	27	samucciwam	27	samucciwam	_
+16	saH	nomsgm	nom. sg. m.	17	viseranam	22	viseranam	_
+17	rAvaRaH	nomsgm	nom. sg. m.	19	karwa	19	karwa	_
+18	amarANganAH	accplf	acc. pl. f.	19	karma	19	karma	_
+19	hara	impsg2	imp. ac. sg. 2	27	samucciwam	27	samucciwam	_
+20	itTaM	conj	conj.	26	sambanxah	26	sambanxah	_
+21	saH	nomsgm	nom. sg. m.	22	viseranam	22	viseranam	_
+22	rAvaRaH	nomsgm	nom. sg. m.	26	karwa	26	karwa	_
+23	ahardivaM	accsgn	acc. sg. n.	25	viseranam	24	viseranam	_
+24	divaH	gsgf	g. sg. f.	25	rartisambanxah	25	rartisambanxah	_
+25	asvAsTyaM	accsgn	acc. sg. n.	26	karma	26	karma	_
+26	cakre	pftmdsg3	pft. md. sg. 3	27	samucciwam	27	samucciwam	_
+27	ca	conj	conj.	0	root	0	root	_
+
